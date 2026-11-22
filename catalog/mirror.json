@@ -1,0 +1,3390 @@
+{
+"schema_version": 1,
+"base": "https://github.com/gabcodingapp-dev/xin-mirror/releases/download",
+"tags": {
+"skins": "Hero skin scripts",
+"skinsextra": "Skin scripts not yet in the catalog",
+"source": "Upstream source repo bundles",
+"flyingvehicle": "Flying vehicles",
+"radiantkits": "Radiant kits",
+"elimination": "Elimination effects",
+"trail": "Trails",
+"respawn": "Respawn effects",
+"borders": "Avatar borders",
+"emotes": "Emotes",
+"recalls": "Recall effects",
+"intros": "Loading intros"
+},
+"items": {
+"flyingvehicle-astral-jellyfish": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-astral-jellyfish.zip",
+"size": 1636647
+},
+"flyingvehicle-default-flying-vehicle": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-default-flying-vehicle.zip",
+"size": 174388
+},
+"flyingvehicle-flying-moon": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-flying-moon.zip",
+"size": 1209664
+},
+"flyingvehicle-sand-cloud": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-sand-cloud.zip",
+"size": 924830
+},
+"aamon-cyber-assassin": {
+"tag": "skins",
+"name": "aamon-cyber-assassin.zip",
+"size": 9128789
+},
+"aamon-night-s-edge": {
+"tag": "skins",
+"name": "aamon-night-s-edge.zip",
+"size": 7085131
+},
+"aamon-noble-crest": {
+"tag": "skins",
+"name": "aamon-noble-crest.zip",
+"size": 9143351
+},
+"aamon-vessel-of-deceit": {
+"tag": "skins",
+"name": "aamon-vessel-of-deceit.zip",
+"size": 20249200
+},
+"akai-akazonae-samurai": {
+"tag": "skins",
+"name": "akai-akazonae-samurai.zip",
+"size": 4575772
+},
+"akai-imperial-assassin": {
+"tag": "skins",
+"name": "akai-imperial-assassin.zip",
+"size": 7710220
+},
+"akai-kung-fu-panda": {
+"tag": "skins",
+"name": "akai-kung-fu-panda.zip",
+"size": 8891806
+},
+"akai-marvelous-maestro": {
+"tag": "skins",
+"name": "akai-marvelous-maestro.zip",
+"size": 10452405
+},
+"akai-monk": {
+"tag": "skins",
+"name": "akai-monk.zip",
+"size": 4022603
+},
+"akai-pumpkin-brawler": {
+"tag": "skins",
+"name": "akai-pumpkin-brawler.zip",
+"size": 12592571
+},
+"akai-stream-recluse": {
+"tag": "skins",
+"name": "akai-stream-recluse.zip",
+"size": 2705997
+},
+"akai-street-enforcer": {
+"tag": "skins",
+"name": "akai-street-enforcer.zip",
+"size": 3945654
+},
+"aldous-blazing-force": {
+"tag": "skins",
+"name": "aldous-blazing-force.zip",
+"size": 11060573
+},
+"aldous-death": {
+"tag": "skins",
+"name": "aldous-death.zip",
+"size": 3166916
+},
+"aldous-fathom-terror": {
+"tag": "skins",
+"name": "aldous-fathom-terror.zip",
+"size": 9538891
+},
+"aldous-king-of-supremacy": {
+"tag": "skins",
+"name": "aldous-king-of-supremacy.zip",
+"size": 6449070
+},
+"aldous-realm-watcher": {
+"tag": "skins",
+"name": "aldous-realm-watcher.zip",
+"size": 8711487
+},
+"aldous-red-mantle": {
+"tag": "skins",
+"name": "aldous-red-mantle.zip",
+"size": 4492391
+},
+"aldous-starscream": {
+"tag": "skins",
+"name": "aldous-starscream.zip",
+"size": 10983986
+},
+"aldous-the-insentient": {
+"tag": "skins",
+"name": "aldous-the-insentient.zip",
+"size": 2741019
+},
+"alice-darknet-temptress": {
+"tag": "skins",
+"name": "alice-darknet-temptress.zip",
+"size": 10822711
+},
+"alice-divine-owl": {
+"tag": "skins",
+"name": "alice-divine-owl.zip",
+"size": 4047022
+},
+"alice-spirit-woman": {
+"tag": "skins",
+"name": "alice-spirit-woman.zip",
+"size": 2144173
+},
+"alice-steam-glider": {
+"tag": "skins",
+"name": "alice-steam-glider.zip",
+"size": 3478307
+},
+"alice-wizardry-teacher": {
+"tag": "skins",
+"name": "alice-wizardry-teacher.zip",
+"size": 25247534
+},
+"alpha-crimson-warrior": {
+"tag": "skins",
+"name": "alpha-crimson-warrior.zip",
+"size": 4780893
+},
+"alpha-general-void": {
+"tag": "skins",
+"name": "alpha-general-void.zip",
+"size": 13740312
+},
+"alpha-mecha-king-perseus": {
+"tag": "skins",
+"name": "alpha-mecha-king-perseus.zip",
+"size": 15798561
+},
+"alpha-onimusha-commander": {
+"tag": "skins",
+"name": "alpha-onimusha-commander.zip",
+"size": 10757218
+},
+"alpha-revenant-of-roses": {
+"tag": "skins",
+"name": "alpha-revenant-of-roses.zip",
+"size": 23126786
+},
+"alpha-sea-gladiator": {
+"tag": "skins",
+"name": "alpha-sea-gladiator.zip",
+"size": 5850396
+},
+"alpha-star-enforcer": {
+"tag": "skins",
+"name": "alpha-star-enforcer.zip",
+"size": 11243582
+},
+"alucard-child-of-the-fall": {
+"tag": "skins",
+"name": "alucard-child-of-the-fall.zip",
+"size": 4277612
+},
+"alucard-demon-s-bane": {
+"tag": "skins",
+"name": "alucard-demon-s-bane.zip",
+"size": 5240803
+},
+"alucard-fiery-inferno": {
+"tag": "skins",
+"name": "alucard-fiery-inferno.zip",
+"size": 2927730
+},
+"alucard-lightborn-striker": {
+"tag": "skins",
+"name": "alucard-lightborn-striker.zip",
+"size": 6693601
+},
+"alucard-obi-wan-kenobi": {
+"tag": "skins",
+"name": "alucard-obi-wan-kenobi.zip",
+"size": 6606345
+},
+"alucard-obsidian-blade": {
+"tag": "skins",
+"name": "alucard-obsidian-blade.zip",
+"size": 26944278
+},
+"alucard-romantic-fantasy": {
+"tag": "skins",
+"name": "alucard-romantic-fantasy.zip",
+"size": 7763927
+},
+"alucard-viscount": {
+"tag": "skins",
+"name": "alucard-viscount.zip",
+"size": 3716132
+},
+"angela-avatar-of-time": {
+"tag": "skins",
+"name": "angela-avatar-of-time.zip",
+"size": 12120655
+},
+"angela-floral-elf": {
+"tag": "skins",
+"name": "angela-floral-elf.zip",
+"size": 7502213
+},
+"angela-heartstring": {
+"tag": "skins",
+"name": "angela-heartstring.zip",
+"size": 17533462
+},
+"angela-scream-doll": {
+"tag": "skins",
+"name": "angela-scream-doll.zip",
+"size": 5247554
+},
+"angela-shanghai-maiden": {
+"tag": "skins",
+"name": "angela-shanghai-maiden.zip",
+"size": 4483229
+},
+"angela-summer-vibes": {
+"tag": "skins",
+"name": "angela-summer-vibes.zip",
+"size": 3193459
+},
+"angela-v-e-n-o-m-vespid": {
+"tag": "skins",
+"name": "angela-v-e-n-o-m-vespid.zip",
+"size": 5788181
+},
+"argus-catastrophe": {
+"tag": "skins",
+"name": "argus-catastrophe.zip",
+"size": 3391118
+},
+"argus-dark-draconic": {
+"tag": "skins",
+"name": "argus-dark-draconic.zip",
+"size": 4940267
+},
+"argus-darth-vader": {
+"tag": "skins",
+"name": "argus-darth-vader.zip",
+"size": 7712712
+},
+"argus-winged-nightmare": {
+"tag": "skins",
+"name": "argus-winged-nightmare.zip",
+"size": 3785766
+},
+"arlott-aeon-of-twilight": {
+"tag": "skins",
+"name": "arlott-aeon-of-twilight.zip",
+"size": 12872665
+},
+"arlott-fury-of-the-deep": {
+"tag": "skins",
+"name": "arlott-fury-of-the-deep.zip",
+"size": 8909938
+},
+"atlas-fuel-turbine": {
+"tag": "skins",
+"name": "atlas-fuel-turbine.zip",
+"size": 3847278
+},
+"atlas-mecha-infernus": {
+"tag": "skins",
+"name": "atlas-mecha-infernus.zip",
+"size": 12432315
+},
+"atlas-reactor-core": {
+"tag": "skins",
+"name": "atlas-reactor-core.zip",
+"size": 3370589
+},
+"atlas-rune-sentinel": {
+"tag": "skins",
+"name": "atlas-rune-sentinel.zip",
+"size": 11976187
+},
+"atlas-space-mech": {
+"tag": "skins",
+"name": "atlas-space-mech.zip",
+"size": 6282423
+},
+"aulus-barren-pioneer": {
+"tag": "skins",
+"name": "aulus-barren-pioneer.zip",
+"size": 8728582
+},
+"aulus-berserker": {
+"tag": "skins",
+"name": "aulus-berserker.zip",
+"size": 6873304
+},
+"aulus-ironmane-reaver": {
+"tag": "skins",
+"name": "aulus-ironmane-reaver.zip",
+"size": 6424292
+},
+"aulus-war-lion": {
+"tag": "skins",
+"name": "aulus-war-lion.zip",
+"size": 10196456
+},
+"aurora-heartbreak-empress": {
+"tag": "skins",
+"name": "aurora-heartbreak-empress.zip",
+"size": 5531389
+},
+"aurora-aquarius": {
+"tag": "skins",
+"name": "aurora-aquarius.zip",
+"size": 11563666
+},
+"aurora-foxy-lady": {
+"tag": "skins",
+"name": "aurora-foxy-lady.zip",
+"size": 10516418
+},
+"aurora-kula-diamond": {
+"tag": "skins",
+"name": "aurora-kula-diamond.zip",
+"size": 11392696
+},
+"badang-fist-of-zen": {
+"tag": "skins",
+"name": "badang-fist-of-zen.zip",
+"size": 6478064
+},
+"badang-sagittarius-seiya": {
+"tag": "skins",
+"name": "badang-sagittarius-seiya.zip",
+"size": 10644004
+},
+"badang-leo": {
+"tag": "skins",
+"name": "badang-leo.zip",
+"size": 8508999
+},
+"badang-susanoo": {
+"tag": "skins",
+"name": "badang-susanoo.zip",
+"size": 4168130
+},
+"balmond-ghoul-s-fury": {
+"tag": "skins",
+"name": "balmond-ghoul-s-fury.zip",
+"size": 2074471
+},
+"aurora-veil-of-the-celestials": {
+"tag": "skins",
+"name": "aurora-veil-of-the-celestials.zip",
+"size": 26083380
+},
+"balmond-bioroid": {
+"tag": "skins",
+"name": "balmond-bioroid.zip",
+"size": 7865678
+},
+"balmond-god-of-mountains": {
+"tag": "skins",
+"name": "balmond-god-of-mountains.zip",
+"size": 8550290
+},
+"balmond-razor-edge": {
+"tag": "skins",
+"name": "balmond-razor-edge.zip",
+"size": 8831579
+},
+"balmond-savage-hunter": {
+"tag": "skins",
+"name": "balmond-savage-hunter.zip",
+"size": 2074471
+},
+"balmond-infernal-warlord": {
+"tag": "skins",
+"name": "balmond-infernal-warlord.zip",
+"size": 12482837
+},
+"badang-steel-arms": {
+"tag": "skins",
+"name": "badang-steel-arms.zip",
+"size": 8312272
+},
+"balmond-savage-pointguard": {
+"tag": "skins",
+"name": "balmond-savage-pointguard.zip",
+"size": 4093537
+},
+"badang-pegasus-seiya": {
+"tag": "skins",
+"name": "badang-pegasus-seiya.zip",
+"size": 9537984
+},
+"bane-deep-sea-monster": {
+"tag": "skins",
+"name": "bane-deep-sea-monster.zip",
+"size": 3461168
+},
+"bane-castle-master": {
+"tag": "skins",
+"name": "bane-castle-master.zip",
+"size": 8125682
+},
+"bane-soul-defiler": {
+"tag": "skins",
+"name": "bane-soul-defiler.zip",
+"size": 9213054
+},
+"bane-warlord": {
+"tag": "skins",
+"name": "bane-warlord.zip",
+"size": 4134583
+},
+"barats-armored-lizard": {
+"tag": "skins",
+"name": "barats-armored-lizard.zip",
+"size": 3186519
+},
+"bane-underworld-outlaw": {
+"tag": "skins",
+"name": "bane-underworld-outlaw.zip",
+"size": 5647018
+},
+"barats-baratstein": {
+"tag": "skins",
+"name": "barats-baratstein.zip",
+"size": 5796121
+},
+"barats-toy-rex": {
+"tag": "skins",
+"name": "barats-toy-rex.zip",
+"size": 5181989
+},
+"barats-war-chief": {
+"tag": "skins",
+"name": "barats-war-chief.zip",
+"size": 5388496
+},
+"baxia-badass-roller": {
+"tag": "skins",
+"name": "baxia-badass-roller.zip",
+"size": 3660437
+},
+"baxia-ba-tender": {
+"tag": "skins",
+"name": "baxia-ba-tender.zip",
+"size": 5328087
+},
+"barats-sunken-predator": {
+"tag": "skins",
+"name": "barats-sunken-predator.zip",
+"size": 20949228
+},
+"baxia-wild-totem": {
+"tag": "skins",
+"name": "baxia-wild-totem.zip",
+"size": 4784782
+},
+"baxia-black-tortoise": {
+"tag": "skins",
+"name": "baxia-black-tortoise.zip",
+"size": 5602389
+},
+"bane-lord-of-scalding-seas": {
+"tag": "skins",
+"name": "bane-lord-of-scalding-seas.zip",
+"size": 16181107
+},
+"beatrix-light-chaser": {
+"tag": "skins",
+"name": "beatrix-light-chaser.zip",
+"size": 19717671
+},
+"beatrix-blitz-attack": {
+"tag": "skins",
+"name": "beatrix-blitz-attack.zip",
+"size": 6986487
+},
+"beatrix-space-agent": {
+"tag": "skins",
+"name": "beatrix-space-agent.zip",
+"size": 10209690
+},
+"beatrix-sky-force-maverick": {
+"tag": "skins",
+"name": "beatrix-sky-force-maverick.zip",
+"size": 23377130
+},
+"beatrix-stellar-briliance": {
+"tag": "skins",
+"name": "beatrix-stellar-briliance.zip",
+"size": 23136221
+},
+"beatrix-vibrant-fiesta": {
+"tag": "skins",
+"name": "beatrix-vibrant-fiesta.zip",
+"size": 12906556
+},
+"beatrix-x-factor": {
+"tag": "skins",
+"name": "beatrix-x-factor.zip",
+"size": 3160688
+},
+"belerick-arbiter-of-stars": {
+"tag": "skins",
+"name": "belerick-arbiter-of-stars.zip",
+"size": 9359608
+},
+"belerick-emerald-guardian": {
+"tag": "skins",
+"name": "belerick-emerald-guardian.zip",
+"size": 10266822
+},
+"belerick-the-deep-one": {
+"tag": "skins",
+"name": "belerick-the-deep-one.zip",
+"size": 4019842
+},
+"belerick-tiger-s-claw": {
+"tag": "skins",
+"name": "belerick-tiger-s-claw.zip",
+"size": 4422831
+},
+"benedetta-honor-blade": {
+"tag": "skins",
+"name": "benedetta-honor-blade.zip",
+"size": 5154071
+},
+"benedetta-moonblade": {
+"tag": "skins",
+"name": "benedetta-moonblade.zip",
+"size": 6033634
+},
+"belerick-torch-guardian": {
+"tag": "skins",
+"name": "belerick-torch-guardian.zip",
+"size": 5019122
+},
+"benedetta-quantum-edge": {
+"tag": "skins",
+"name": "benedetta-quantum-edge.zip",
+"size": 9258100
+},
+"benedetta-phantom-mirage": {
+"tag": "skins",
+"name": "benedetta-phantom-mirage.zip",
+"size": 11966022
+},
+"brody-apbren": {
+"tag": "skins",
+"name": "brody-apbren.zip",
+"size": 11357543
+},
+"brody-nameless-stray": {
+"tag": "skins",
+"name": "brody-nameless-stray.zip",
+"size": 2863609
+},
+"benedetta-panigale-v4s-rider": {
+"tag": "skins",
+"name": "benedetta-panigale-v4s-rider.zip",
+"size": 13435607
+},
+"brody-s-t-u-n-brody": {
+"tag": "skins",
+"name": "brody-s-t-u-n-brody.zip",
+"size": 5320582
+},
+"brody-lethal-fang": {
+"tag": "skins",
+"name": "brody-lethal-fang.zip",
+"size": 7540675
+},
+"brody-ore-chemist": {
+"tag": "skins",
+"name": "brody-ore-chemist.zip",
+"size": 7552879
+},
+"bruno-best-dj": {
+"tag": "skins",
+"name": "bruno-best-dj.zip",
+"size": 4927516
+},
+"benedetta-death-oath": {
+"tag": "skins",
+"name": "benedetta-death-oath.zip",
+"size": 26154114
+},
+"bruno-neymar-jr": {
+"tag": "skins",
+"name": "bruno-neymar-jr.zip",
+"size": 8135514
+},
+"bruno-halo-striker": {
+"tag": "skins",
+"name": "bruno-halo-striker.zip",
+"size": 10677741
+},
+"brody-quantum-grip": {
+"tag": "skins",
+"name": "brody-quantum-grip.zip",
+"size": 12869252
+},
+"bruno-firebolt": {
+"tag": "skins",
+"name": "bruno-firebolt.zip",
+"size": 23596299
+},
+"bruno-street-football": {
+"tag": "skins",
+"name": "bruno-street-football.zip",
+"size": 4484024
+},
+"bruno-vanguard-elite": {
+"tag": "skins",
+"name": "bruno-vanguard-elite.zip",
+"size": 2234281
+},
+"bruno-the-falcon": {
+"tag": "skins",
+"name": "bruno-the-falcon.zip",
+"size": 5187489
+},
+"bruno-urban-hype-painted-01": {
+"tag": "skins",
+"name": "bruno-urban-hype-painted-01.zip",
+"size": 7108867
+},
+"carmilla-phantom-countess": {
+"tag": "skins",
+"name": "carmilla-phantom-countess.zip",
+"size": 5211282
+},
+"carmilla-magician-girl": {
+"tag": "skins",
+"name": "carmilla-magician-girl.zip",
+"size": 3687536
+},
+"carmilla-astral-arcana": {
+"tag": "skins",
+"name": "carmilla-astral-arcana.zip",
+"size": 21020414
+},
+"cecilion-phantom-count": {
+"tag": "skins",
+"name": "cecilion-phantom-count.zip",
+"size": 5028315
+},
+"carmilla-wisteria-countess": {
+"tag": "skins",
+"name": "carmilla-wisteria-countess.zip",
+"size": 3569173
+},
+"cecilion-crimson-wings": {
+"tag": "skins",
+"name": "cecilion-crimson-wings.zip",
+"size": 40304213
+},
+"cecilion-the-illusionist": {
+"tag": "skins",
+"name": "cecilion-the-illusionist.zip",
+"size": 4115162
+},
+"cecilion-wisteria-count": {
+"tag": "skins",
+"name": "cecilion-wisteria-count.zip",
+"size": 3349626
+},
+"chang-e-crimson-moon": {
+"tag": "skins",
+"name": "chang-e-crimson-moon.zip",
+"size": 4157314
+},
+"chang-e-floral-elfo": {
+"tag": "skins",
+"name": "chang-e-floral-elfo.zip",
+"size": 3434109
+},
+"chang-e-moon-artist": {
+"tag": "skins",
+"name": "chang-e-moon-artist.zip",
+"size": 11425705
+},
+"chang-e-new-moon": {
+"tag": "skins",
+"name": "chang-e-new-moon.zip",
+"size": 13382225
+},
+"chang-e-strawberry-parfait": {
+"tag": "skins",
+"name": "chang-e-strawberry-parfait.zip",
+"size": 4492177
+},
+"chang-e-tech-tensai": {
+"tag": "skins",
+"name": "chang-e-tech-tensai.zip",
+"size": 13089684
+},
+"cecilion-stargazer": {
+"tag": "skins",
+"name": "cecilion-stargazer.zip",
+"size": 7767556
+},
+"chip-nexus-engineer": {
+"tag": "skins",
+"name": "chip-nexus-engineer.zip",
+"size": 10452405
+},
+"chou-dragon-shiryu": {
+"tag": "skins",
+"name": "chou-dragon-shiryu.zip",
+"size": 12970056
+},
+"chang-e-lunar-magic": {
+"tag": "skins",
+"name": "chang-e-lunar-magic.zip",
+"size": 8543814
+},
+"chou-go-ballistic": {
+"tag": "skins",
+"name": "chou-go-ballistic.zip",
+"size": 1915962
+},
+"chou-furious-tiger": {
+"tag": "skins",
+"name": "chou-furious-tiger.zip",
+"size": 2940378
+},
+"chou-dragon-boy": {
+"tag": "skins",
+"name": "chou-dragon-boy.zip",
+"size": 6836527
+},
+"chou-echo": {
+"tag": "skins",
+"name": "chou-echo.zip",
+"size": 12733875
+},
+"chou-hip-hop-boy": {
+"tag": "skins",
+"name": "chou-hip-hop-boy.zip",
+"size": 4362794
+},
+"chou-iori-yagami": {
+"tag": "skins",
+"name": "chou-iori-yagami.zip",
+"size": 11129190
+},
+"chou-king-of-muay-thai": {
+"tag": "skins",
+"name": "chou-king-of-muay-thai.zip",
+"size": 2866241
+},
+"chang-e-vine-cradle": {
+"tag": "skins",
+"name": "chang-e-vine-cradle.zip",
+"size": 12238355
+},
+"cici-circus-reverie": {
+"tag": "skins",
+"name": "cici-circus-reverie.zip",
+"size": 8992328
+},
+"claude-bad-bro": {
+"tag": "skins",
+"name": "claude-bad-bro.zip",
+"size": 9123041
+},
+"cici-whimsical-carnival": {
+"tag": "skins",
+"name": "cici-whimsical-carnival.zip",
+"size": 5079328
+},
+"chou-libra-shiryu": {
+"tag": "skins",
+"name": "chou-libra-shiryu.zip",
+"size": 16289394
+},
+"cici-p-ace-cici": {
+"tag": "skins",
+"name": "cici-p-ace-cici.zip",
+"size": 13742981
+},
+"claude-christmas-carnival": {
+"tag": "skins",
+"name": "claude-christmas-carnival.zip",
+"size": 5802094
+},
+"claude-blazing-trace": {
+"tag": "skins",
+"name": "claude-blazing-trace.zip",
+"size": 8355567
+},
+"claude-earth-s-mightiest": {
+"tag": "skins",
+"name": "claude-earth-s-mightiest.zip",
+"size": 5649039
+},
+"claude-golden-bullet": {
+"tag": "skins",
+"name": "claude-golden-bullet.zip",
+"size": 3447658
+},
+"claude-cosmic-blaze": {
+"tag": "skins",
+"name": "claude-cosmic-blaze.zip",
+"size": 25567651
+},
+"claude-plunderous-pirate": {
+"tag": "skins",
+"name": "claude-plunderous-pirate.zip",
+"size": 4795160
+},
+"clint-badminton-champion": {
+"tag": "skins",
+"name": "clint-badminton-champion.zip",
+"size": 4100560
+},
+"claude-heart-aflame": {
+"tag": "skins",
+"name": "claude-heart-aflame.zip",
+"size": 13681425
+},
+"claude-challenger-s-spark": {
+"tag": "skins",
+"name": "claude-challenger-s-spark.zip",
+"size": 21260175
+},
+"claude-mecha-dragon": {
+"tag": "skins",
+"name": "claude-mecha-dragon.zip",
+"size": 19209455
+},
+"clint-operator-cl": {
+"tag": "skins",
+"name": "clint-operator-cl.zip",
+"size": 6536780
+},
+"clint-dragon-s-maw": {
+"tag": "skins",
+"name": "clint-dragon-s-maw.zip",
+"size": 15852892
+},
+"clint-captain-of-the-reefs": {
+"tag": "skins",
+"name": "clint-captain-of-the-reefs.zip",
+"size": 22888724
+},
+"clint-guns-and-roses": {
+"tag": "skins",
+"name": "clint-guns-and-roses.zip",
+"size": 7301707
+},
+"clint-rock-and-roll": {
+"tag": "skins",
+"name": "clint-rock-and-roll.zip",
+"size": 2692299
+},
+"clint-shadow-omen": {
+"tag": "skins",
+"name": "clint-shadow-omen.zip",
+"size": 5919871
+},
+"clint-witch-hunter": {
+"tag": "skins",
+"name": "clint-witch-hunter.zip",
+"size": 3874811
+},
+"cyclops-exorcist": {
+"tag": "skins",
+"name": "cyclops-exorcist.zip",
+"size": 2187154
+},
+"cyclops-master-yoda": {
+"tag": "skins",
+"name": "cyclops-master-yoda.zip",
+"size": 4645235
+},
+"cyclops-s-a-b-e-r-enforcer": {
+"tag": "skins",
+"name": "cyclops-s-a-b-e-r-enforcer.zip",
+"size": 5630516
+},
+"cyclops-spongebob": {
+"tag": "skins",
+"name": "cyclops-spongebob.zip",
+"size": 26101497
+},
+"cyclops-straw-doll": {
+"tag": "skins",
+"name": "cyclops-straw-doll.zip",
+"size": 8338467
+},
+"cyclops-yokai-warlock": {
+"tag": "skins",
+"name": "cyclops-yokai-warlock.zip",
+"size": 10185608
+},
+"cyclops-super-adventurer": {
+"tag": "skins",
+"name": "cyclops-super-adventurer.zip",
+"size": 2737274
+},
+"diggie-circus-clown": {
+"tag": "skins",
+"name": "diggie-circus-clown.zip",
+"size": 4141624
+},
+"diggie-fairytaler": {
+"tag": "skins",
+"name": "diggie-fairytaler.zip",
+"size": 7649615
+},
+"dyrroth-orochi-chris": {
+"tag": "skins",
+"name": "dyrroth-orochi-chris.zip",
+"size": 8765543
+},
+"diggie-pigeoneer": {
+"tag": "skins",
+"name": "diggie-pigeoneer.zip",
+"size": 2074450
+},
+"dyrroth-ruins-scavenger": {
+"tag": "skins",
+"name": "dyrroth-ruins-scavenger.zip",
+"size": 4515874
+},
+"dyrroth-scalebore": {
+"tag": "skins",
+"name": "dyrroth-scalebore.zip",
+"size": 1889761
+},
+"diggie-constellation": {
+"tag": "skins",
+"name": "diggie-constellation.zip",
+"size": 4032705
+},
+"dyrroth-v-e-n-o-m-cobra": {
+"tag": "skins",
+"name": "dyrroth-v-e-n-o-m-cobra.zip",
+"size": 8138977
+},
+"edith-ancient-warden": {
+"tag": "skins",
+"name": "edith-ancient-warden.zip",
+"size": 2614984
+},
+"edith-prismatic-sentinel": {
+"tag": "skins",
+"name": "edith-prismatic-sentinel.zip",
+"size": 11279046
+},
+"edith-red-bastion": {
+"tag": "skins",
+"name": "edith-red-bastion.zip",
+"size": 20531431
+},
+"esmeralda-cleopatra": {
+"tag": "skins",
+"name": "esmeralda-cleopatra.zip",
+"size": 3700031
+},
+"esmeralda-blazing-shadow": {
+"tag": "skins",
+"name": "esmeralda-blazing-shadow.zip",
+"size": 8009900
+},
+"esmeralda-astral-muse": {
+"tag": "skins",
+"name": "esmeralda-astral-muse.zip",
+"size": 9548221
+},
+"esmeralda-lady-thief": {
+"tag": "skins",
+"name": "esmeralda-lady-thief.zip",
+"size": 3429229
+},
+"esmeralda-light-envoy": {
+"tag": "skins",
+"name": "esmeralda-light-envoy.zip",
+"size": 9148041
+},
+"esmeralda-ruddy-dusk": {
+"tag": "skins",
+"name": "esmeralda-ruddy-dusk.zip",
+"size": 2105565
+},
+"clint-crimson-blast": {
+"tag": "skins",
+"name": "clint-crimson-blast.zip",
+"size": 31298037
+},
+"esmeralda-the-foreseer": {
+"tag": "skins",
+"name": "esmeralda-the-foreseer.zip",
+"size": 8538448
+},
+"esmeralda-poison-vine": {
+"tag": "skins",
+"name": "esmeralda-poison-vine.zip",
+"size": 4911798
+},
+"estes-arcane-magistrate": {
+"tag": "skins",
+"name": "estes-arcane-magistrate.zip",
+"size": 5421808
+},
+"edith-celestial-safeguard": {
+"tag": "skins",
+"name": "edith-celestial-safeguard.zip",
+"size": 10255128
+},
+"estes-crow-bishop": {
+"tag": "skins",
+"name": "estes-crow-bishop.zip",
+"size": 3352401
+},
+"estes-rattan-dragon": {
+"tag": "skins",
+"name": "estes-rattan-dragon.zip",
+"size": 6409820
+},
+"estes-galaxy-dominator": {
+"tag": "skins",
+"name": "estes-galaxy-dominator.zip",
+"size": 7724867
+},
+"eudora-christmas-carnival": {
+"tag": "skins",
+"name": "eudora-christmas-carnival.zip",
+"size": 10073399
+},
+"eudora-cosmic-voyage": {
+"tag": "skins",
+"name": "eudora-cosmic-voyage.zip",
+"size": 7042622
+},
+"eudora-emerald-enchantress": {
+"tag": "skins",
+"name": "eudora-emerald-enchantress.zip",
+"size": 16010672
+},
+"eudora-midnight-s-allure": {
+"tag": "skins",
+"name": "eudora-midnight-s-allure.zip",
+"size": 11153469
+},
+"fanny-campus-youth": {
+"tag": "skins",
+"name": "fanny-campus-youth.zip",
+"size": 2140811
+},
+"fanny-blade-of-kibou": {
+"tag": "skins",
+"name": "fanny-blade-of-kibou.zip",
+"size": 9352739
+},
+"estes-blacklist-international": {
+"tag": "skins",
+"name": "estes-blacklist-international.zip",
+"size": 8353599
+},
+"fanny-christmas-carnival": {
+"tag": "skins",
+"name": "fanny-christmas-carnival.zip",
+"size": 4697103
+},
+"fanny-heart-afloat": {
+"tag": "skins",
+"name": "fanny-heart-afloat.zip",
+"size": 12996846
+},
+"fanny-lightborn-ranger": {
+"tag": "skins",
+"name": "fanny-lightborn-ranger.zip",
+"size": 6412314
+},
+"fanny-p-ace-fanny": {
+"tag": "skins",
+"name": "fanny-p-ace-fanny.zip",
+"size": 10931578
+},
+"fanny-galactic-starhawk": {
+"tag": "skins",
+"name": "fanny-galactic-starhawk.zip",
+"size": 33281710
+},
+"fanny-skylark": {
+"tag": "skins",
+"name": "fanny-skylark.zip",
+"size": 6259775
+},
+"fanny-royal-cavalry": {
+"tag": "skins",
+"name": "fanny-royal-cavalry.zip",
+"size": 3043816
+},
+"faramis-dark-necro": {
+"tag": "skins",
+"name": "faramis-dark-necro.zip",
+"size": 4796873
+},
+"fanny-punk-princess": {
+"tag": "skins",
+"name": "fanny-punk-princess.zip",
+"size": 3318421
+},
+"faramis-infernal-magister": {
+"tag": "skins",
+"name": "faramis-infernal-magister.zip",
+"size": 15035581
+},
+"faramis-summer-sparks": {
+"tag": "skins",
+"name": "faramis-summer-sparks.zip",
+"size": 9364520
+},
+"floryn-fluffy-dream": {
+"tag": "skins",
+"name": "floryn-fluffy-dream.zip",
+"size": 10271994
+},
+"floryn-melody-of-light": {
+"tag": "skins",
+"name": "floryn-melody-of-light.zip",
+"size": 24595466
+},
+"floryn-yatai-waitress": {
+"tag": "skins",
+"name": "floryn-yatai-waitress.zip",
+"size": 9210414
+},
+"floryn-paw-power": {
+"tag": "skins",
+"name": "floryn-paw-power.zip",
+"size": 18410866
+},
+"franco-apocalypse": {
+"tag": "skins",
+"name": "franco-apocalypse.zip",
+"size": 3199953
+},
+"floryn-springtide": {
+"tag": "skins",
+"name": "floryn-springtide.zip",
+"size": 7737978
+},
+"franco-blazing-axe": {
+"tag": "skins",
+"name": "franco-blazing-axe.zip",
+"size": 11171661
+},
+"franco-locomotive": {
+"tag": "skins",
+"name": "franco-locomotive.zip",
+"size": 2875198
+},
+"franco-masterchef": {
+"tag": "skins",
+"name": "franco-masterchef.zip",
+"size": 2219429
+},
+"franco-king-of-hell": {
+"tag": "skins",
+"name": "franco-king-of-hell.zip",
+"size": 21875039
+},
+"franco-quantum-vanguard": {
+"tag": "skins",
+"name": "franco-quantum-vanguard.zip",
+"size": 5340606
+},
+"franco-bone-crusher": {
+"tag": "skins",
+"name": "franco-bone-crusher.zip",
+"size": 2440513
+},
+"franco-valhalla-ruler": {
+"tag": "skins",
+"name": "franco-valhalla-ruler.zip",
+"size": 7620212
+},
+"franco-wheatfield-nightmare": {
+"tag": "skins",
+"name": "franco-wheatfield-nightmare.zip",
+"size": 6147793
+},
+"fredrinn-regal-renegade": {
+"tag": "skins",
+"name": "fredrinn-regal-renegade.zip",
+"size": 3486662
+},
+"freya-beach-sweetheart": {
+"tag": "skins",
+"name": "freya-beach-sweetheart.zip",
+"size": 2531256
+},
+"freya-christmas-carnival": {
+"tag": "skins",
+"name": "freya-christmas-carnival.zip",
+"size": 3319123
+},
+"freya-dragon-hunter": {
+"tag": "skins",
+"name": "freya-dragon-hunter.zip",
+"size": 4948714
+},
+"freya-gladiator": {
+"tag": "skins",
+"name": "freya-gladiator.zip",
+"size": 4787746
+},
+"freya-galactic-vanquisher": {
+"tag": "skins",
+"name": "freya-galactic-vanquisher.zip",
+"size": 18294657
+},
+"floryn-herald-of-autumn": {
+"tag": "skins",
+"name": "floryn-herald-of-autumn.zip",
+"size": 31680080
+},
+"freya-raven-shogun": {
+"tag": "skins",
+"name": "freya-raven-shogun.zip",
+"size": 8413437
+},
+"freya-s-a-b-e-r-manhunter": {
+"tag": "skins",
+"name": "freya-s-a-b-e-r-manhunter.zip",
+"size": 10855576
+},
+"gatotkaca-nutcracker-monarch": {
+"tag": "skins",
+"name": "gatotkaca-nutcracker-monarch.zip",
+"size": 6134175
+},
+"gatotkaca-sentinel": {
+"tag": "skins",
+"name": "gatotkaca-sentinel.zip",
+"size": 9106941
+},
+"gatotkaca-spark": {
+"tag": "skins",
+"name": "gatotkaca-spark.zip",
+"size": 3550139
+},
+"gloo-jellyman": {
+"tag": "skins",
+"name": "gloo-jellyman.zip",
+"size": 7236089
+},
+"freya-starborn-resolve": {
+"tag": "skins",
+"name": "freya-starborn-resolve.zip",
+"size": 18106683
+},
+"freya-war-angel": {
+"tag": "skins",
+"name": "freya-war-angel.zip",
+"size": 10031603
+},
+"gord-christmas-carnival": {
+"tag": "skins",
+"name": "gord-christmas-carnival.zip",
+"size": 3806866
+},
+"gord-conqueror": {
+"tag": "skins",
+"name": "gord-conqueror.zip",
+"size": 15538748
+},
+"gord-cyber-hacker": {
+"tag": "skins",
+"name": "gord-cyber-hacker.zip",
+"size": 11626488
+},
+"gloo-verdant-enchanter": {
+"tag": "skins",
+"name": "gloo-verdant-enchanter.zip",
+"size": 6212799
+},
+"gord-imperator-vitalis": {
+"tag": "skins",
+"name": "gord-imperator-vitalis.zip",
+"size": 8912756
+},
+"gatotkaca-tide-preserver": {
+"tag": "skins",
+"name": "gatotkaca-tide-preserver.zip",
+"size": 10593870
+},
+"gord-no-1-controller": {
+"tag": "skins",
+"name": "gord-no-1-controller.zip",
+"size": 4926780
+},
+"gord-new-baron": {
+"tag": "skins",
+"name": "gord-new-baron.zip",
+"size": 6599979
+},
+"granger-agent-z": {
+"tag": "skins",
+"name": "granger-agent-z.zip",
+"size": 10938683
+},
+"granger-alluring-enigma": {
+"tag": "skins",
+"name": "granger-alluring-enigma.zip",
+"size": 22074190
+},
+"granger-biosoldier": {
+"tag": "skins",
+"name": "granger-biosoldier.zip",
+"size": 6766799
+},
+"granger-bardic-whisper": {
+"tag": "skins",
+"name": "granger-bardic-whisper.zip",
+"size": 15852892
+},
+"granger-doomsday-terminator": {
+"tag": "skins",
+"name": "granger-doomsday-terminator.zip",
+"size": 6529536
+},
+"granger-hellbringer": {
+"tag": "skins",
+"name": "granger-hellbringer.zip",
+"size": 8569562
+},
+"granger-cosmic-finality": {
+"tag": "skins",
+"name": "granger-cosmic-finality.zip",
+"size": 36622141
+},
+"granger-megatron": {
+"tag": "skins",
+"name": "granger-megatron.zip",
+"size": 10404052
+},
+"granger-lightborn-overrider": {
+"tag": "skins",
+"name": "granger-lightborn-overrider.zip",
+"size": 8750158
+},
+"granger-starfall-knight": {
+"tag": "skins",
+"name": "granger-starfall-knight.zip",
+"size": 9967604
+},
+"grock-ancient-golem": {
+"tag": "skins",
+"name": "grock-ancient-golem.zip",
+"size": 6278501
+},
+"grock-iceland-golem": {
+"tag": "skins",
+"name": "grock-iceland-golem.zip",
+"size": 4905404
+},
+"grock-wasteland-psycho": {
+"tag": "skins",
+"name": "grock-wasteland-psycho.zip",
+"size": 6242528
+},
+"guinevere-amethyst-dance": {
+"tag": "skins",
+"name": "guinevere-amethyst-dance.zip",
+"size": 4632662
+},
+"granger-thunder-ascendant": {
+"tag": "skins",
+"name": "granger-thunder-ascendant.zip",
+"size": 25865075
+},
+"grock-titanic-illusion": {
+"tag": "skins",
+"name": "grock-titanic-illusion.zip",
+"size": 29638628
+},
+"guinevere-fleur-de-bleau": {
+"tag": "skins",
+"name": "guinevere-fleur-de-bleau.zip",
+"size": 2025692
+},
+"guinevere-athena-asamiya": {
+"tag": "skins",
+"name": "guinevere-athena-asamiya.zip",
+"size": 9642016
+},
+"guinevere-lady-crane": {
+"tag": "skins",
+"name": "guinevere-lady-crane.zip",
+"size": 6570215
+},
+"guinevere-lotus": {
+"tag": "skins",
+"name": "guinevere-lotus.zip",
+"size": 4055779
+},
+"guinevere-summer-breeze": {
+"tag": "skins",
+"name": "guinevere-summer-breeze.zip",
+"size": 10768141
+},
+"gusion-cyber-ops": {
+"tag": "skins",
+"name": "gusion-cyber-ops.zip",
+"size": 4236495
+},
+"guinevere-psion-of-tomorrow": {
+"tag": "skins",
+"name": "guinevere-psion-of-tomorrow.zip",
+"size": 10570013
+},
+"gusion-cosmic-gleam": {
+"tag": "skins",
+"name": "gusion-cosmic-gleam.zip",
+"size": 9327750
+},
+"gusion-desert-spider": {
+"tag": "skins",
+"name": "gusion-desert-spider.zip",
+"size": 7845777
+},
+"gusion-dimension-walker": {
+"tag": "skins",
+"name": "gusion-dimension-walker.zip",
+"size": 7509267
+},
+"gusion-night-owl": {
+"tag": "skins",
+"name": "gusion-night-owl.zip",
+"size": 6147393
+},
+"gusion-moonlight-sonata": {
+"tag": "skins",
+"name": "gusion-moonlight-sonata.zip",
+"size": 5608090
+},
+"gusion-dangerous-liaison": {
+"tag": "skins",
+"name": "gusion-dangerous-liaison.zip",
+"size": 6073918
+},
+"gusion-k": {
+"tag": "skins",
+"name": "gusion-k.zip",
+"size": 14768618
+},
+"gusion-minato-namikaze": {
+"tag": "skins",
+"name": "gusion-minato-namikaze.zip",
+"size": 26154114
+},
+"gusion-v-e-n-o-m-emperor-scorpion": {
+"tag": "skins",
+"name": "gusion-v-e-n-o-m-emperor-scorpion.zip",
+"size": 6447003
+},
+"hanabi-fiery-moth": {
+"tag": "skins",
+"name": "hanabi-fiery-moth.zip",
+"size": 3435147
+},
+"gusion-soul-revelation": {
+"tag": "skins",
+"name": "gusion-soul-revelation.zip",
+"size": 7897732
+},
+"hanabi-moonlit-ninja": {
+"tag": "skins",
+"name": "hanabi-moonlit-ninja.zip",
+"size": 11261520
+},
+"hanabi-riverland-phoenix": {
+"tag": "skins",
+"name": "hanabi-riverland-phoenix.zip",
+"size": 10584100
+},
+"hanabi-resplendent-iris": {
+"tag": "skins",
+"name": "hanabi-resplendent-iris.zip",
+"size": 6064832
+},
+"hanabi-twin-crescent": {
+"tag": "skins",
+"name": "hanabi-twin-crescent.zip",
+"size": 5964690
+},
+"hanabi-v-e-n-o-m-nephila": {
+"tag": "skins",
+"name": "hanabi-v-e-n-o-m-nephila.zip",
+"size": 6122046
+},
+"hanabi-rakshesha": {
+"tag": "skins",
+"name": "hanabi-rakshesha.zip",
+"size": 9599157
+},
+"hanzo-insidious-tutor": {
+"tag": "skins",
+"name": "hanzo-insidious-tutor.zip",
+"size": 11673855
+},
+"hanabi-vessel-of-rage": {
+"tag": "skins",
+"name": "hanabi-vessel-of-rage.zip",
+"size": 23402145
+},
+"hanzo-undead-king": {
+"tag": "skins",
+"name": "hanzo-undead-king.zip",
+"size": 10090096
+},
+"harith-christmas-carnival": {
+"tag": "skins",
+"name": "harith-christmas-carnival.zip",
+"size": 9650283
+},
+"hanzo-soulfire-netherlord": {
+"tag": "skins",
+"name": "hanzo-soulfire-netherlord.zip",
+"size": 18736986
+},
+"harith-fashion-expert": {
+"tag": "skins",
+"name": "harith-fashion-expert.zip",
+"size": 3414972
+},
+"harith-lightborn-inspirer": {
+"tag": "skins",
+"name": "harith-lightborn-inspirer.zip",
+"size": 6492937
+},
+"hanzo-the-pale-phantom": {
+"tag": "skins",
+"name": "hanzo-the-pale-phantom.zip",
+"size": 5549084
+},
+"harith-psychic": {
+"tag": "skins",
+"name": "harith-psychic.zip",
+"size": 9317919
+},
+"harley-dream-caster": {
+"tag": "skins",
+"name": "harley-dream-caster.zip",
+"size": 7910359
+},
+"harley-great-inventor": {
+"tag": "skins",
+"name": "harley-great-inventor.zip",
+"size": 6892227
+},
+"harley-referee": {
+"tag": "skins",
+"name": "harley-referee.zip",
+"size": 3419385
+},
+"hayabusa-biological-weapon": {
+"tag": "skins",
+"name": "hayabusa-biological-weapon.zip",
+"size": 6536956
+},
+"harley-v-e-n-o-m-octopus": {
+"tag": "skins",
+"name": "harley-v-e-n-o-m-octopus.zip",
+"size": 4643502
+},
+"hayabusa-future-enforcer": {
+"tag": "skins",
+"name": "hayabusa-future-enforcer.zip",
+"size": 15053628
+},
+"hayabusa-experiment-21": {
+"tag": "skins",
+"name": "hayabusa-experiment-21.zip",
+"size": 9326799
+},
+"hayabusa-kakashi-hatake": {
+"tag": "skins",
+"name": "hayabusa-kakashi-hatake.zip",
+"size": 22965920
+},
+"hayabusa-techie-ninja": {
+"tag": "skins",
+"name": "hayabusa-techie-ninja.zip",
+"size": 9496541
+},
+"hayabusa-shadow-of-obscurity": {
+"tag": "skins",
+"name": "hayabusa-shadow-of-obscurity.zip",
+"size": 6144777
+},
+"helcurt-dream-prowler": {
+"tag": "skins",
+"name": "helcurt-dream-prowler.zip",
+"size": 5530002
+},
+"hayabusa-sushi-master": {
+"tag": "skins",
+"name": "hayabusa-sushi-master.zip",
+"size": 11691900
+},
+"helcurt-evolved-predator": {
+"tag": "skins",
+"name": "helcurt-evolved-predator.zip",
+"size": 5745000
+},
+"hayabusa-shura": {
+"tag": "skins",
+"name": "hayabusa-shura.zip",
+"size": 10474886
+},
+"helcurt-ice-scythe": {
+"tag": "skins",
+"name": "helcurt-ice-scythe.zip",
+"size": 6777495
+},
+"hilda-bass-craze": {
+"tag": "skins",
+"name": "hilda-bass-craze.zip",
+"size": 5184958
+},
+"hilda-flower-of-the-wastes": {
+"tag": "skins",
+"name": "hilda-flower-of-the-wastes.zip",
+"size": 2410360
+},
+"hilda-sacred-guard": {
+"tag": "skins",
+"name": "hilda-sacred-guard.zip",
+"size": 3918962
+},
+"hylos-abyssal-shaman": {
+"tag": "skins",
+"name": "hylos-abyssal-shaman.zip",
+"size": 3072980
+},
+"hilda-aries": {
+"tag": "skins",
+"name": "hilda-aries.zip",
+"size": 8287984
+},
+"helcurt-scorpio": {
+"tag": "skins",
+"name": "helcurt-scorpio.zip",
+"size": 6655741
+},
+"hylos-iron-steed": {
+"tag": "skins",
+"name": "hylos-iron-steed.zip",
+"size": 5416590
+},
+"hylos-bloodhoof-marauder": {
+"tag": "skins",
+"name": "hylos-bloodhoof-marauder.zip",
+"size": 5528657
+},
+"hylos-phantom-seer": {
+"tag": "skins",
+"name": "hylos-phantom-seer.zip",
+"size": 3630321
+},
+"irithel-astral-wanderer": {
+"tag": "skins",
+"name": "irithel-astral-wanderer.zip",
+"size": 5340064
+},
+"hylos-jungle-watcher": {
+"tag": "skins",
+"name": "hylos-jungle-watcher.zip",
+"size": 5625056
+},
+"irithel-hellfire": {
+"tag": "skins",
+"name": "irithel-hellfire.zip",
+"size": 5608425
+},
+"irithel-nightarrow": {
+"tag": "skins",
+"name": "irithel-nightarrow.zip",
+"size": 5206809
+},
+"irithel-checkered-knight": {
+"tag": "skins",
+"name": "irithel-checkered-knight.zip",
+"size": 10693940
+},
+"harith-stardust": {
+"tag": "skins",
+"name": "harith-stardust.zip",
+"size": 3455038
+},
+"harith-evos-legends": {
+"tag": "skins",
+"name": "harith-evos-legends.zip",
+"size": 6463127
+},
+"harley-royal-magister": {
+"tag": "skins",
+"name": "harley-royal-magister.zip",
+"size": 3598285
+},
+"irithel-sagittarius": {
+"tag": "skins",
+"name": "irithel-sagittarius.zip",
+"size": 10478081
+},
+"harley-star-magician": {
+"tag": "skins",
+"name": "harley-star-magician.zip",
+"size": 5552957
+},
+"irithel-monster-sp-rider": {
+"tag": "skins",
+"name": "irithel-monster-sp-rider.zip",
+"size": 16730364
+},
+"ixia-shifting-sand": {
+"tag": "skins",
+"name": "ixia-shifting-sand.zip",
+"size": 12259283
+},
+"ixia-dynamic-streak": {
+"tag": "skins",
+"name": "ixia-dynamic-streak.zip",
+"size": 12297259
+},
+"jawhead-candy-bear": {
+"tag": "skins",
+"name": "jawhead-candy-bear.zip",
+"size": 5482240
+},
+"jawhead-cyber-ranger": {
+"tag": "skins",
+"name": "jawhead-cyber-ranger.zip",
+"size": 6435828
+},
+"jawhead-foo-quarterback": {
+"tag": "skins",
+"name": "jawhead-foo-quarterback.zip",
+"size": 4328347
+},
+"jawhead-proto-guardian": {
+"tag": "skins",
+"name": "jawhead-proto-guardian.zip",
+"size": 14728922
+},
+"jawhead-the-nutcracker": {
+"tag": "skins",
+"name": "jawhead-the-nutcracker.zip",
+"size": 4434338
+},
+"ixia-invoker-s-command": {
+"tag": "skins",
+"name": "ixia-invoker-s-command.zip",
+"size": 23596299
+},
+"johnson-death-ride": {
+"tag": "skins",
+"name": "johnson-death-ride.zip",
+"size": 6189985
+},
+"johnson-jeepney-racer": {
+"tag": "skins",
+"name": "johnson-jeepney-racer.zip",
+"size": 5789799
+},
+"jawhead-samurai-mech": {
+"tag": "skins",
+"name": "jawhead-samurai-mech.zip",
+"size": 8705680
+},
+"johnson-optimus-prime": {
+"tag": "skins",
+"name": "johnson-optimus-prime.zip",
+"size": 13919991
+},
+"jawhead-space-explorer": {
+"tag": "skins",
+"name": "jawhead-space-explorer.zip",
+"size": 4492391
+},
+"johnson-s-a-b-e-r-automata": {
+"tag": "skins",
+"name": "johnson-s-a-b-e-r-automata.zip",
+"size": 10752560
+},
+"johnson-sovereign-of-realms": {
+"tag": "skins",
+"name": "johnson-sovereign-of-realms.zip",
+"size": 18836956
+},
+"johnson-wreck-king": {
+"tag": "skins",
+"name": "johnson-wreck-king.zip",
+"size": 13302149
+},
+"joy-feline-ranger": {
+"tag": "skins",
+"name": "joy-feline-ranger.zip",
+"size": 3346379
+},
+"joy-onic-ph": {
+"tag": "skins",
+"name": "joy-onic-ph.zip",
+"size": 11979337
+},
+"julian-itachi-uchiha": {
+"tag": "skins",
+"name": "julian-itachi-uchiha.zip",
+"size": 30240208
+},
+"julian-megumi-fushiguro": {
+"tag": "skins",
+"name": "julian-megumi-fushiguro.zip",
+"size": 17448740
+},
+"julian-silent-edge": {
+"tag": "skins",
+"name": "julian-silent-edge.zip",
+"size": 5454056
+},
+"joy-exostar-scout": {
+"tag": "skins",
+"name": "joy-exostar-scout.zip",
+"size": 10452003
+},
+"kadita-atlantean-princess": {
+"tag": "skins",
+"name": "kadita-atlantean-princess.zip",
+"size": 2321111
+},
+"kadita-hydromancer": {
+"tag": "skins",
+"name": "kadita-hydromancer.zip",
+"size": 5462743
+},
+"julian-kurapika": {
+"tag": "skins",
+"name": "julian-kurapika.zip",
+"size": 18913291
+},
+"kadita-white-robin": {
+"tag": "skins",
+"name": "kadita-white-robin.zip",
+"size": 4466151
+},
+"kagura-cherry-witch": {
+"tag": "skins",
+"name": "kagura-cherry-witch.zip",
+"size": 5128291
+},
+"kagura-jade-blossom": {
+"tag": "skins",
+"name": "kagura-jade-blossom.zip",
+"size": 9235278
+},
+"kagura-exorcist-kagura": {
+"tag": "skins",
+"name": "kagura-exorcist-kagura.zip",
+"size": 25032694
+},
+"kadita-maiden-of-the-tide": {
+"tag": "skins",
+"name": "kadita-maiden-of-the-tide.zip",
+"size": 14089652
+},
+"kagura-rainy-walk": {
+"tag": "skins",
+"name": "kagura-rainy-walk.zip",
+"size": 9781681
+},
+"kagura-summer-festival": {
+"tag": "skins",
+"name": "kagura-summer-festival.zip",
+"size": 5007529
+},
+"kagura-lady-parasol": {
+"tag": "skins",
+"name": "kagura-lady-parasol.zip",
+"size": 11788095
+},
+"kaja-crow-magician": {
+"tag": "skins",
+"name": "kaja-crow-magician.zip",
+"size": 4985412
+},
+"kaja-horror-whiplash": {
+"tag": "skins",
+"name": "kaja-horror-whiplash.zip",
+"size": 3469759
+},
+"kaja-inferno-taskmaster": {
+"tag": "skins",
+"name": "kaja-inferno-taskmaster.zip",
+"size": 10653598
+},
+"kaja-kaminari": {
+"tag": "skins",
+"name": "kaja-kaminari.zip",
+"size": 3679646
+},
+"kaja-skyblocker": {
+"tag": "skins",
+"name": "kaja-skyblocker.zip",
+"size": 5412151
+},
+"kagura-water-lily": {
+"tag": "skins",
+"name": "kagura-water-lily.zip",
+"size": 12102255
+},
+"karina-gemini-halo": {
+"tag": "skins",
+"name": "karina-gemini-halo.zip",
+"size": 10271442
+},
+"karina-christmas-carnival": {
+"tag": "skins",
+"name": "karina-christmas-carnival.zip",
+"size": 4334297
+},
+"karina-doom-duelist": {
+"tag": "skins",
+"name": "karina-doom-duelist.zip",
+"size": 6799816
+},
+"kadita-heart-of-the-sea": {
+"tag": "skins",
+"name": "kadita-heart-of-the-sea.zip",
+"size": 7423723
+},
+"karina-spider-lily": {
+"tag": "skins",
+"name": "karina-spider-lily.zip",
+"size": 3428931
+},
+"kalea-sakura-haruno": {
+"tag": "skins",
+"name": "kalea-sakura-haruno.zip",
+"size": 22228776
+},
+"karrie-gill-girl": {
+"tag": "skins",
+"name": "karrie-gill-girl.zip",
+"size": 4806696
+},
+"karrie-dragon-queen": {
+"tag": "skins",
+"name": "karrie-dragon-queen.zip",
+"size": 3503929
+},
+"karrie-ice-talon": {
+"tag": "skins",
+"name": "karrie-ice-talon.zip",
+"size": 11416964
+},
+"karrie-jester": {
+"tag": "skins",
+"name": "karrie-jester.zip",
+"size": 3611418
+},
+"karrie-hawkwatch": {
+"tag": "skins",
+"name": "karrie-hawkwatch.zip",
+"size": 9426440
+},
+"karina-leona": {
+"tag": "skins",
+"name": "karina-leona.zip",
+"size": 23287854
+},
+"karrie-neon-lightwheel": {
+"tag": "skins",
+"name": "karrie-neon-lightwheel.zip",
+"size": 6777591
+},
+"karrie-wheel-of-justice": {
+"tag": "skins",
+"name": "karrie-wheel-of-justice.zip",
+"size": 5534300
+},
+"khaleed-crescent-scimitar": {
+"tag": "skins",
+"name": "khaleed-crescent-scimitar.zip",
+"size": 3889511
+},
+"khaleed-desert-salamander": {
+"tag": "skins",
+"name": "khaleed-desert-salamander.zip",
+"size": 5709947
+},
+"karrie-breath-of-naraka": {
+"tag": "skins",
+"name": "karrie-breath-of-naraka.zip",
+"size": 20451193
+},
+"khaleed-wave-strider": {
+"tag": "skins",
+"name": "khaleed-wave-strider.zip",
+"size": 12988800
+},
+"khaleed-prince-of-sand": {
+"tag": "skins",
+"name": "khaleed-prince-of-sand.zip",
+"size": 1815154
+},
+"khufra-apophis": {
+"tag": "skins",
+"name": "khufra-apophis.zip",
+"size": 4581087
+},
+"khufra-iron-hook": {
+"tag": "skins",
+"name": "khufra-iron-hook.zip",
+"size": 5233379
+},
+"khufra-gentleman-thief": {
+"tag": "skins",
+"name": "khufra-gentleman-thief.zip",
+"size": 3096232
+},
+"khufra-dreadful-clown": {
+"tag": "skins",
+"name": "khufra-dreadful-clown.zip",
+"size": 6593763
+},
+"khufra-cursed-scroll": {
+"tag": "skins",
+"name": "khufra-cursed-scroll.zip",
+"size": 9329691
+},
+"kimmy-bio-frontier": {
+"tag": "skins",
+"name": "kimmy-bio-frontier.zip",
+"size": 3486635
+},
+"kimmy-charge-leader": {
+"tag": "skins",
+"name": "kimmy-charge-leader.zip",
+"size": 2360445
+},
+"kimmy-astrocat": {
+"tag": "skins",
+"name": "kimmy-astrocat.zip",
+"size": 5006714
+},
+"kimmy-first-order-jet-trooper": {
+"tag": "skins",
+"name": "kimmy-first-order-jet-trooper.zip",
+"size": 12966257
+},
+"kimmy-frost-wing": {
+"tag": "skins",
+"name": "kimmy-frost-wing.zip",
+"size": 6436775
+},
+"lancelot-bren-esports": {
+"tag": "skins",
+"name": "lancelot-bren-esports.zip",
+"size": 7282210
+},
+"lancelot-christmas-carnival": {
+"tag": "skins",
+"name": "lancelot-christmas-carnival.zip",
+"size": 7903446
+},
+"lancelot-dark-earl": {
+"tag": "skins",
+"name": "lancelot-dark-earl.zip",
+"size": 8222278
+},
+"lancelot-empyrean-flame": {
+"tag": "skins",
+"name": "lancelot-empyrean-flame.zip",
+"size": 11902821
+},
+"lancelot-floral-knight": {
+"tag": "skins",
+"name": "lancelot-floral-knight.zip",
+"size": 8516669
+},
+"lancelot-guardian-of-the-shrine": {
+"tag": "skins",
+"name": "lancelot-guardian-of-the-shrine.zip",
+"size": 14361667
+},
+"lancelot-marques-of-blades": {
+"tag": "skins",
+"name": "lancelot-marques-of-blades.zip",
+"size": 6518553
+},
+"lancelot-pisces": {
+"tag": "skins",
+"name": "lancelot-pisces.zip",
+"size": 12629307
+},
+"lancelot-royal-matador": {
+"tag": "skins",
+"name": "lancelot-royal-matador.zip",
+"size": 10000260
+},
+"lancelot-swordmaster": {
+"tag": "skins",
+"name": "lancelot-swordmaster.zip",
+"size": 21365453
+},
+"lapu-lapu-adlaw-s-chosen": {
+"tag": "skins",
+"name": "lapu-lapu-adlaw-s-chosen.zip",
+"size": 14283950
+},
+"lapu-lapu-ancestral-blade": {
+"tag": "skins",
+"name": "lapu-lapu-ancestral-blade.zip",
+"size": 3766242
+},
+"lapu-lapu-imperial-champion": {
+"tag": "skins",
+"name": "lapu-lapu-imperial-champion.zip",
+"size": 5017945
+},
+"lapu-lapu-son-of-the-wild": {
+"tag": "skins",
+"name": "lapu-lapu-son-of-the-wild.zip",
+"size": 7156464
+},
+"lapu-lapu-special-force": {
+"tag": "skins",
+"name": "lapu-lapu-special-force.zip",
+"size": 4061707
+},
+"lapu-lapu-vulcan": {
+"tag": "skins",
+"name": "lapu-lapu-vulcan.zip",
+"size": 5897557
+},
+"layla-blazing-gun": {
+"tag": "skins",
+"name": "layla-blazing-gun.zip",
+"size": 9721785
+},
+"layla-blue-spectre": {
+"tag": "skins",
+"name": "layla-blue-spectre.zip",
+"size": 1521221
+},
+"layla-bunny-babe": {
+"tag": "skins",
+"name": "layla-bunny-babe.zip",
+"size": 3493524
+},
+"layla-cannon-and-roses": {
+"tag": "skins",
+"name": "layla-cannon-and-roses.zip",
+"size": 11393319
+},
+"layla-classic-malefic-gunner": {
+"tag": "skins",
+"name": "layla-classic-malefic-gunner.zip",
+"size": 1626052
+},
+"layla-miss-hikari": {
+"tag": "skins",
+"name": "layla-miss-hikari.zip",
+"size": 19576133
+},
+"khufra-volcanic-overlord": {
+"tag": "skins",
+"name": "khufra-volcanic-overlord.zip",
+"size": 6923582
+},
+"lesley-angelic-agent": {
+"tag": "skins",
+"name": "lesley-angelic-agent.zip",
+"size": 10823043
+},
+"leomord-shadow-knight": {
+"tag": "skins",
+"name": "leomord-shadow-knight.zip",
+"size": 14298368
+},
+"leomord-triumph-eagle": {
+"tag": "skins",
+"name": "leomord-triumph-eagle.zip",
+"size": 6390769
+},
+"lesley-dangerous-love": {
+"tag": "skins",
+"name": "lesley-dangerous-love.zip",
+"size": 5909643
+},
+"leomord-jack-o-lantern": {
+"tag": "skins",
+"name": "leomord-jack-o-lantern.zip",
+"size": 7081396
+},
+"lesley-falcon-mistress": {
+"tag": "skins",
+"name": "lesley-falcon-mistress.zip",
+"size": 9520747
+},
+"lesley-general-rosa": {
+"tag": "skins",
+"name": "lesley-general-rosa.zip",
+"size": 2984788
+},
+"lesley-cheergunner": {
+"tag": "skins",
+"name": "lesley-cheergunner.zip",
+"size": 3543747
+},
+"lesley-lethal-lady": {
+"tag": "skins",
+"name": "lesley-lethal-lady.zip",
+"size": 3889854
+},
+"lesley-deadeye-spectre": {
+"tag": "skins",
+"name": "lesley-deadeye-spectre.zip",
+"size": 17431300
+},
+"ling-fiery-dance": {
+"tag": "skins",
+"name": "ling-fiery-dance.zip",
+"size": 3405426
+},
+"lesley-stellaris-ghost": {
+"tag": "skins",
+"name": "lesley-stellaris-ghost.zip",
+"size": 13012452
+},
+"ling-cosmo-guard": {
+"tag": "skins",
+"name": "ling-cosmo-guard.zip",
+"size": 3836405
+},
+"ling-lord-shen": {
+"tag": "skins",
+"name": "ling-lord-shen.zip",
+"size": 16285078
+},
+"ling-phantom-current": {
+"tag": "skins",
+"name": "ling-phantom-current.zip",
+"size": 26858313
+},
+"ling-m-world-ling": {
+"tag": "skins",
+"name": "ling-m-world-ling.zip",
+"size": 11778899
+},
+"ling-serene-plume": {
+"tag": "skins",
+"name": "ling-serene-plume.zip",
+"size": 11307571
+},
+"lolita-genki-slam": {
+"tag": "skins",
+"name": "lolita-genki-slam.zip",
+"size": 3906102
+},
+"ling-street-punk": {
+"tag": "skins",
+"name": "ling-street-punk.zip",
+"size": 5948538
+},
+"ling-night-shade": {
+"tag": "skins",
+"name": "ling-night-shade.zip",
+"size": 10512708
+},
+"lolita-impish-trickster": {
+"tag": "skins",
+"name": "lolita-impish-trickster.zip",
+"size": 7127921
+},
+"lolita-lion-dance": {
+"tag": "skins",
+"name": "lolita-lion-dance.zip",
+"size": 7185688
+},
+"lolita-soldier-in-training": {
+"tag": "skins",
+"name": "lolita-soldier-in-training.zip",
+"size": 996074
+},
+"lolita-starwatcher": {
+"tag": "skins",
+"name": "lolita-starwatcher.zip",
+"size": 10508842
+},
+"lesley-hawk-eyed-sniper": {
+"tag": "skins",
+"name": "lesley-hawk-eyed-sniper.zip",
+"size": 14701963
+},
+"lunox-ash-blossom": {
+"tag": "skins",
+"name": "lunox-ash-blossom.zip",
+"size": 3702174
+},
+"lunox-butterfly-seraphim": {
+"tag": "skins",
+"name": "lunox-butterfly-seraphim.zip",
+"size": 6039653
+},
+"lunox-dawn-revelation": {
+"tag": "skins",
+"name": "lunox-dawn-revelation.zip",
+"size": 8900692
+},
+"lukas-naruto-uzumaki": {
+"tag": "skins",
+"name": "lukas-naruto-uzumaki.zip",
+"size": 24337151
+},
+"lunox-cosmic-harmony": {
+"tag": "skins",
+"name": "lunox-cosmic-harmony.zip",
+"size": 2661890
+},
+"lunox-eyes-of-eternity": {
+"tag": "skins",
+"name": "lunox-eyes-of-eternity.zip",
+"size": 8042453
+},
+"lunox-quantum-polarity": {
+"tag": "skins",
+"name": "lunox-quantum-polarity.zip",
+"size": 8968916
+},
+"akai-kung-fu-monk-painted-01": {
+"tag": "skins",
+"name": "akai-kung-fu-monk-painted-01.zip",
+"size": 4621635
+},
+"aldous-vile-death": {
+"tag": "skins",
+"name": "aldous-vile-death.zip",
+"size": 5290181
+},
+"angela-midnight-marionette": {
+"tag": "skins",
+"name": "angela-midnight-marionette.zip",
+"size": 5502176
+},
+"alice-divine-phoenix": {
+"tag": "skins",
+"name": "alice-divine-phoenix.zip",
+"size": 9350240
+},
+"arlott-ire-of-the-deep-painted-02": {
+"tag": "skins",
+"name": "arlott-ire-of-the-deep-painted-02.zip",
+"size": 9176100
+},
+"argus-malediction-painted-01": {
+"tag": "skins",
+"name": "argus-malediction-painted-01.zip",
+"size": 4261827
+},
+"alpha-galactic-enforcer": {
+"tag": "skins",
+"name": "alpha-galactic-enforcer.zip",
+"size": 15775055
+},
+"atlas-battle-turbine": {
+"tag": "skins",
+"name": "atlas-battle-turbine.zip",
+"size": 5626047
+},
+"barats-scalding-predator-painted-01": {
+"tag": "skins",
+"name": "barats-scalding-predator-painted-01.zip",
+"size": 12352761
+},
+"balmond-mighty-pointguard": {
+"tag": "skins",
+"name": "balmond-mighty-pointguard.zip",
+"size": 6143377
+},
+"bruno-tropical-dj-painted-01": {
+"tag": "skins",
+"name": "bruno-tropical-dj-painted-01.zip",
+"size": 4221227
+},
+"belerick-deep-reef-painted-01": {
+"tag": "skins",
+"name": "belerick-deep-reef-painted-01.zip",
+"size": 2980734
+},
+"beatrix-light-seeker-painted-01": {
+"tag": "skins",
+"name": "beatrix-light-seeker-painted-01.zip",
+"size": 25425371
+},
+"chang-e-azure-moon": {
+"tag": "skins",
+"name": "chang-e-azure-moon.zip",
+"size": 6224143
+},
+"chou-red-tiger-painted-01": {
+"tag": "skins",
+"name": "chou-red-tiger-painted-01.zip",
+"size": 3907855
+},
+"chou-undefeated-champion-painted-01": {
+"tag": "skins",
+"name": "chou-undefeated-champion-painted-01.zip",
+"size": 4643592
+},
+"cici-circus-fantasy": {
+"tag": "skins",
+"name": "cici-circus-fantasy.zip",
+"size": 8274308
+},
+"chou-ken-outfit-1-painted-01": {
+"tag": "skins",
+"name": "chou-ken-outfit-1-painted-01.zip",
+"size": 31309208
+},
+"cici-circus-glamour-painted-02": {
+"tag": "skins",
+"name": "cici-circus-glamour-painted-02.zip",
+"size": 8274308
+},
+"clint-full-smash-painted-01": {
+"tag": "skins",
+"name": "clint-full-smash-painted-01.zip",
+"size": 5821304
+},
+"cyclops-super-sportsman-painted-01": {
+"tag": "skins",
+"name": "cyclops-super-sportsman-painted-01.zip",
+"size": 3412359
+},
+"arlott-scorn-of-the-deep-painted-01": {
+"tag": "skins",
+"name": "arlott-scorn-of-the-deep-painted-01.zip",
+"size": 11589025
+},
+"claude-msc-mightiest-painted-01": {
+"tag": "skins",
+"name": "claude-msc-mightiest-painted-01.zip",
+"size": 5167456
+},
+"diggie-astrologist-painted-01": {
+"tag": "skins",
+"name": "diggie-astrologist-painted-01.zip",
+"size": 5156431
+},
+"claude-challenger-s-flare-painted-01": {
+"tag": "skins",
+"name": "claude-challenger-s-flare-painted-01.zip",
+"size": 11938938
+},
+"dyrroth-guile-outfit-1-painted-01": {
+"tag": "skins",
+"name": "dyrroth-guile-outfit-1-painted-01.zip",
+"size": 26674579
+},
+"estes-arcane-judicator-painted-01": {
+"tag": "skins",
+"name": "estes-arcane-judicator-painted-01.zip",
+"size": 5689661
+},
+"esmeralda-scene-stealer-painted-01": {
+"tag": "skins",
+"name": "esmeralda-scene-stealer-painted-01.zip",
+"size": 4965485
+},
+"estes-red-crow-painted-01": {
+"tag": "skins",
+"name": "estes-red-crow-painted-01.zip",
+"size": 5088082
+},
+"eudora-photogenic-painted-01": {
+"tag": "skins",
+"name": "eudora-photogenic-painted-01.zip",
+"size": 4076727
+},
+"faramis-enigmatic-wanderer": {
+"tag": "skins",
+"name": "faramis-enigmatic-wanderer.zip",
+"size": 9772326
+},
+"esmeralda-stellar-muse-painted-01": {
+"tag": "skins",
+"name": "esmeralda-stellar-muse-painted-01.zip",
+"size": 7571597
+},
+"franco-luminous-nightmare": {
+"tag": "skins",
+"name": "franco-luminous-nightmare.zip",
+"size": 6756711
+},
+"gatotkaca-nutcracker-earl": {
+"tag": "skins",
+"name": "gatotkaca-nutcracker-earl.zip",
+"size": 6555251
+},
+"freya-spartan-spirit": {
+"tag": "skins",
+"name": "freya-spartan-spirit.zip",
+"size": 6754260
+},
+"gatotkaca-nutcracker-duke-painted-02": {
+"tag": "skins",
+"name": "gatotkaca-nutcracker-duke-painted-02.zip",
+"size": 6359323
+},
+"gatotkaca-steeler-painted-01": {
+"tag": "skins",
+"name": "gatotkaca-steeler-painted-01.zip",
+"size": 5126174
+},
+"edith-golden-warden": {
+"tag": "skins",
+"name": "edith-golden-warden.zip",
+"size": 16635949
+},
+"granger-doomsday-punisher-painted-01": {
+"tag": "skins",
+"name": "granger-doomsday-punisher-painted-01.zip",
+"size": 6226206
+},
+"guinevere-scarlet-dance-painted-01": {
+"tag": "skins",
+"name": "guinevere-scarlet-dance-painted-01.zip",
+"size": 7153776
+},
+"guinevere-chun-li-outfit-1-painted-01": {
+"tag": "skins",
+"name": "guinevere-chun-li-outfit-1-painted-01.zip",
+"size": 32115980
+},
+"gord-imperator-stellaris-painted-02": {
+"tag": "skins",
+"name": "gord-imperator-stellaris-painted-02.zip",
+"size": 28938052
+},
+"gord-imperator-silas": {
+"tag": "skins",
+"name": "gord-imperator-silas.zip",
+"size": 28938052
+},
+"gusion-gothic-hairstylist-painted-01": {
+"tag": "skins",
+"name": "gusion-gothic-hairstylist-painted-01.zip",
+"size": 9857909
+},
+"gusion-emerald-spider-painted-02": {
+"tag": "skins",
+"name": "gusion-emerald-spider-painted-02.zip",
+"size": 6333168
+},
+"gusion-romantic-liaison": {
+"tag": "skins",
+"name": "gusion-romantic-liaison.zip",
+"size": 7885131
+},
+"hanzo-evil-tutor": {
+"tag": "skins",
+"name": "hanzo-evil-tutor.zip",
+"size": 6751415
+},
+"gusion-royal-spider-painted-01": {
+"tag": "skins",
+"name": "gusion-royal-spider-painted-01.zip",
+"size": 6266086
+},
+"hanzo-evil-tutor-painted-01": {
+"tag": "skins",
+"name": "hanzo-evil-tutor-painted-01.zip",
+"size": 6751415
+},
+"harith-wayfarer-painted-01": {
+"tag": "skins",
+"name": "harith-wayfarer-painted-01.zip",
+"size": 5261560
+},
+"helcurt-fatal-stinger-painted-01": {
+"tag": "skins",
+"name": "helcurt-fatal-stinger-painted-01.zip",
+"size": 4061984
+},
+"hayabusa-future-enforcer-iron-painted-01": {
+"tag": "skins",
+"name": "hayabusa-future-enforcer-iron-painted-01.zip",
+"size": 8207888
+},
+"hanabi-emerald-viper-painted-01": {
+"tag": "skins",
+"name": "hanabi-emerald-viper-painted-01.zip",
+"size": 7107812
+},
+"hilda-carmine-craze": {
+"tag": "skins",
+"name": "hilda-carmine-craze.zip",
+"size": 6593088
+},
+"irithel-ice-spike-painted-01": {
+"tag": "skins",
+"name": "irithel-ice-spike-painted-01.zip",
+"size": 6514088
+},
+"irithel-neon-knight-painted-01": {
+"tag": "skins",
+"name": "irithel-neon-knight-painted-01.zip",
+"size": 7135934
+},
+"irithel-rosy-knight-painted-02": {
+"tag": "skins",
+"name": "irithel-rosy-knight-painted-02.zip",
+"size": 7135934
+},
+"jawhead-field-commander-painted-01": {
+"tag": "skins",
+"name": "jawhead-field-commander-painted-01.zip",
+"size": 4766065
+},
+"helcurt-phantom-prowler-painted-01": {
+"tag": "skins",
+"name": "helcurt-phantom-prowler-painted-01.zip",
+"size": 6122148
+},
+"jawhead-proto-sentinel-painted-01": {
+"tag": "skins",
+"name": "jawhead-proto-sentinel-painted-01.zip",
+"size": 13287060
+},
+"joy-exostar-runner": {
+"tag": "skins",
+"name": "joy-exostar-runner.zip",
+"size": 9502533
+},
+"joy-exostar-ranger-painted-02": {
+"tag": "skins",
+"name": "joy-exostar-ranger-painted-02.zip",
+"size": 9488511
+},
+"johnson-pink-jeepney-racer": {
+"tag": "skins",
+"name": "johnson-pink-jeepney-racer.zip",
+"size": 12385617
+},
+"joy-exostar-runner-painted-01": {
+"tag": "skins",
+"name": "joy-exostar-runner-painted-01.zip",
+"size": 9502533
+},
+"kadita-violet-orchid-painted-01": {
+"tag": "skins",
+"name": "kadita-violet-orchid-painted-01.zip",
+"size": 5448536
+},
+"hayabusa-sushi-master-purple-painted-01": {
+"tag": "skins",
+"name": "hayabusa-sushi-master-purple-painted-01.zip",
+"size": 11403378
+},
+"kadita-lady-of-the-tide-painted-01": {
+"tag": "skins",
+"name": "kadita-lady-of-the-tide-painted-01.zip",
+"size": 13425220
+},
+"kaja-death-whiplash-painted-01": {
+"tag": "skins",
+"name": "kaja-death-whiplash-painted-01.zip",
+"size": 3781763
+},
+"kagura-amethyst-wizard": {
+"tag": "skins",
+"name": "kagura-amethyst-wizard.zip",
+"size": 8780825
+},
+"karina-spider-lily-autumn": {
+"tag": "skins",
+"name": "karina-spider-lily-autumn.zip",
+"size": 4966973
+},
+"kagura-pink-summer-festival": {
+"tag": "skins",
+"name": "kagura-pink-summer-festival.zip",
+"size": 6582935
+},
+"karrie-fool": {
+"tag": "skins",
+"name": "karrie-fool.zip",
+"size": 3787781
+},
+"karina-spider-lily-winter-painted-01": {
+"tag": "skins",
+"name": "karina-spider-lily-winter-painted-01.zip",
+"size": 4966973
+},
+"khufra-classic-crook-painted-01": {
+"tag": "skins",
+"name": "khufra-classic-crook-painted-01.zip",
+"size": 3980183
+},
+"kimmy-high-seas-cadet": {
+"tag": "skins",
+"name": "kimmy-high-seas-cadet.zip",
+"size": 27903943
+},
+"lapu-lapu-imperial-soldier-painted-01": {
+"tag": "skins",
+"name": "lapu-lapu-imperial-soldier-painted-01.zip",
+"size": 5472918
+},
+"kimmy-rising-nova": {
+"tag": "skins",
+"name": "kimmy-rising-nova.zip",
+"size": 7166318
+},
+"kadita-muse-of-the-tide-painted-02": {
+"tag": "skins",
+"name": "kadita-muse-of-the-tide-painted-02.zip",
+"size": 13425220
+},
+"layla-midnight-waltz": {
+"tag": "skins",
+"name": "layla-midnight-waltz.zip",
+"size": 6186582
+},
+"layla-sunset-waltz": {
+"tag": "skins",
+"name": "layla-sunset-waltz.zip",
+"size": 6186582
+},
+"layla-paranormal-operative": {
+"tag": "skins",
+"name": "layla-paranormal-operative.zip",
+"size": 18845597
+},
+"lancelot-blade-of-devotion": {
+"tag": "skins",
+"name": "lancelot-blade-of-devotion.zip",
+"size": 25510603
+},
+"layla-s-a-b-e-r-breacher": {
+"tag": "skins",
+"name": "layla-s-a-b-e-r-breacher.zip",
+"size": 8847384
+},
+"layla-the-beacon": {
+"tag": "skins",
+"name": "layla-the-beacon.zip",
+"size": 22171992
+},
+"leomord-diavel-v4-rider": {
+"tag": "skins",
+"name": "leomord-diavel-v4-rider.zip",
+"size": 14027052
+},
+"lesley-cheersniper": {
+"tag": "skins",
+"name": "lesley-cheersniper.zip",
+"size": 3777378
+},
+"leomord-inferno-soul": {
+"tag": "skins",
+"name": "leomord-inferno-soul.zip",
+"size": 17081718
+},
+"leomord-frostborn-paladin": {
+"tag": "skins",
+"name": "leomord-frostborn-paladin.zip",
+"size": 6390769
+},
+"lesley-romantic-love-painted-01": {
+"tag": "skins",
+"name": "lesley-romantic-love-painted-01.zip",
+"size": 7817993
+},
+"leomord-auspicious-blaze": {
+"tag": "skins",
+"name": "leomord-auspicious-blaze.zip",
+"size": 19868545
+},
+"lesley-duchess-of-depths-painted-01": {
+"tag": "skins",
+"name": "lesley-duchess-of-depths-painted-01.zip",
+"size": 15912100
+},
+"lunox-libra": {
+"tag": "skins",
+"name": "lunox-libra.zip",
+"size": 5927243
+},
+"lunox-nature-s-harmony": {
+"tag": "skins",
+"name": "lunox-nature-s-harmony.zip",
+"size": 5269181
+},
+"lunox-nature-harmony": {
+"tag": "skins",
+"name": "lunox-nature-harmony.zip",
+"size": 5269181
+},
+"lolita-pumpkin-smash": {
+"tag": "skins",
+"name": "lolita-pumpkin-smash.zip",
+"size": 7002753
+},
+"leomord-nightmare-count": {
+"tag": "skins",
+"name": "leomord-nightmare-count.zip",
+"size": 18084566
+},
+"lylia-haunted-doll": {
+"tag": "skins",
+"name": "lylia-haunted-doll.zip",
+"size": 4766695
+},
+"luo-yi-moonlit-orchid": {
+"tag": "skins",
+"name": "luo-yi-moonlit-orchid.zip",
+"size": 4192926
+},
+"lunox-divine-goddess": {
+"tag": "skins",
+"name": "lunox-divine-goddess.zip",
+"size": 19162273
+},
+"lylia-magitech-arsenal": {
+"tag": "skins",
+"name": "lylia-magitech-arsenal.zip",
+"size": 9767372
+},
+"lylia-magitech-ordnance-painted-02": {
+"tag": "skins",
+"name": "lylia-magitech-ordnance-painted-02.zip",
+"size": 6437665
+},
+"lylia-star-student": {
+"tag": "skins",
+"name": "lylia-star-student.zip",
+"size": 4186397
+},
+"lylia-phantasmal-revelry": {
+"tag": "skins",
+"name": "lylia-phantasmal-revelry.zip",
+"size": 18675319
+},
+"lylia-magitech-blaster": {
+"tag": "skins",
+"name": "lylia-magitech-blaster.zip",
+"size": 6437665
+},
+"lylia-witchcrafter-painted-01": {
+"tag": "skins",
+"name": "lylia-witchcrafter-painted-01.zip",
+"size": 3591992
+},
+"martis-bloodtide-terror": {
+"tag": "skins",
+"name": "martis-bloodtide-terror.zip",
+"size": 8442157
+},
+"martis-darkwater-terror": {
+"tag": "skins",
+"name": "martis-darkwater-terror.zip",
+"size": 8078883
+},
+"martis-deathrock": {
+"tag": "skins",
+"name": "martis-deathrock.zip",
+"size": 3564861
+},
+"martis-capricorn": {
+"tag": "skins",
+"name": "martis-capricorn.zip",
+"size": 10423303
+},
+"martis-nethersea-terror": {
+"tag": "skins",
+"name": "martis-nethersea-terror.zip",
+"size": 8927094
+},
+"martis-searing-maw": {
+"tag": "skins",
+"name": "martis-searing-maw.zip",
+"size": 3821583
+},
+"martis-tyrant": {
+"tag": "skins",
+"name": "martis-tyrant.zip",
+"size": 3218407
+},
+"martis-god-of-war": {
+"tag": "skins",
+"name": "martis-god-of-war.zip",
+"size": 8479312
+},
+"masha-combat-maiden": {
+"tag": "skins",
+"name": "masha-combat-maiden.zip",
+"size": 3945450
+},
+"lylia-future-star": {
+"tag": "skins",
+"name": "lylia-future-star.zip",
+"size": 5334741
+},
+"masha-spirited-gauntlet": {
+"tag": "skins",
+"name": "masha-spirited-gauntlet.zip",
+"size": 6740912
+},
+"masha-dragon-armor": {
+"tag": "skins",
+"name": "masha-dragon-armor.zip",
+"size": 7359223
+},
+"masha-rogue-talon": {
+"tag": "skins",
+"name": "masha-rogue-talon.zip",
+"size": 7399723
+},
+"masha-mai-shiranui": {
+"tag": "skins",
+"name": "masha-mai-shiranui.zip",
+"size": 15854547
+},
+"mathilda-unrestrained-delight": {
+"tag": "skins",
+"name": "mathilda-unrestrained-delight.zip",
+"size": 3066410
+},
+"mathilda-floral-crown": {
+"tag": "skins",
+"name": "mathilda-floral-crown.zip",
+"size": 6411355
+},
+"melissa-cursewalker-painted-01": {
+"tag": "skins",
+"name": "melissa-cursewalker-painted-01.zip",
+"size": 5061639
+},
+"mathilda-dream-groove": {
+"tag": "skins",
+"name": "mathilda-dream-groove.zip",
+"size": 7577752
+},
+"melissa-nobara-kugisaki": {
+"tag": "skins",
+"name": "melissa-nobara-kugisaki.zip",
+"size": 16205504
+},
+"melissa-shimmer-melissa-painted-01": {
+"tag": "skins",
+"name": "melissa-shimmer-melissa-painted-01.zip",
+"size": 17133646
+},
+"melissa-nightwalker": {
+"tag": "skins",
+"name": "melissa-nightwalker.zip",
+"size": 4965383
+},
+"minotaur-hammer-of-despair": {
+"tag": "skins",
+"name": "minotaur-hammer-of-despair.zip",
+"size": 5900887
+},
+"melissa-twinge-weaver": {
+"tag": "skins",
+"name": "melissa-twinge-weaver.zip",
+"size": 6304075
+},
+"minotaur-dreadnought": {
+"tag": "skins",
+"name": "minotaur-dreadnought.zip",
+"size": 4944685
+},
+"minotaur-orbiter": {
+"tag": "skins",
+"name": "minotaur-orbiter.zip",
+"size": 3750258
+},
+"minotaur-nether-overseer": {
+"tag": "skins",
+"name": "minotaur-nether-overseer.zip",
+"size": 5528657
+},
+"minotaur-sacred-hammer": {
+"tag": "skins",
+"name": "minotaur-sacred-hammer.zip",
+"size": 5901021
+},
+"mathilda-dreambound-pixie": {
+"tag": "skins",
+"name": "mathilda-dreambound-pixie.zip",
+"size": 22872337
+},
+"minotaur-taurus": {
+"tag": "skins",
+"name": "minotaur-taurus.zip",
+"size": 14004136
+},
+"minsitthar-golden-marshall": {
+"tag": "skins",
+"name": "minsitthar-golden-marshall.zip",
+"size": 5002179
+},
+"minsitthar-crimson-lion": {
+"tag": "skins",
+"name": "minsitthar-crimson-lion.zip",
+"size": 7196452
+},
+"minsitthar-radiant-lion-painted-01": {
+"tag": "skins",
+"name": "minsitthar-radiant-lion-painted-01.zip",
+"size": 9332261
+},
+"minsitthar-gilded-king": {
+"tag": "skins",
+"name": "minsitthar-gilded-king.zip",
+"size": 5101557
+},
+"melissa-umbra-bloom": {
+"tag": "skins",
+"name": "melissa-umbra-bloom.zip",
+"size": 14119436
+},
+"minsitthar-king-of-war": {
+"tag": "skins",
+"name": "minsitthar-king-of-war.zip",
+"size": 6047259
+},
+"miya-burning-bow": {
+"tag": "skins",
+"name": "miya-burning-bow.zip",
+"size": 2446453
+},
+"miya-captain-thorns": {
+"tag": "skins",
+"name": "miya-captain-thorns.zip",
+"size": 2448471
+},
+"minsitthar-sol-invictus": {
+"tag": "skins",
+"name": "minsitthar-sol-invictus.zip",
+"size": 14027052
+},
+"miya-honor": {
+"tag": "skins",
+"name": "miya-honor.zip",
+"size": 1312471
+},
+"miya-atomic-pop-miya": {
+"tag": "skins",
+"name": "miya-atomic-pop-miya.zip",
+"size": 12207747
+},
+"miya-jungle-ranger": {
+"tag": "skins",
+"name": "miya-jungle-ranger.zip",
+"size": 1986653
+},
+"miya-christmas-carnival": {
+"tag": "skins",
+"name": "miya-christmas-carnival.zip",
+"size": 6381692
+},
+"miya-modena-butterfly": {
+"tag": "skins",
+"name": "miya-modena-butterfly.zip",
+"size": 12758148
+},
+"miya-nightowl-warden-painted-01": {
+"tag": "skins",
+"name": "miya-nightowl-warden-painted-01.zip",
+"size": 9492298
+},
+"miya-suzuhime": {
+"tag": "skins",
+"name": "miya-suzuhime.zip",
+"size": 4015412
+},
+"miya-tranquil-bow-painted-01": {
+"tag": "skins",
+"name": "miya-tranquil-bow-painted-01.zip",
+"size": 2983571
+},
+"miya-nightowl-huntress": {
+"tag": "skins",
+"name": "miya-nightowl-huntress.zip",
+"size": 9206893
+},
+"moskov-asian-javelin-champion-painted-01": {
+"tag": "skins",
+"name": "moskov-asian-javelin-champion-painted-01.zip",
+"size": 5740405
+},
+"miya-doom-catalyst": {
+"tag": "skins",
+"name": "miya-doom-catalyst.zip",
+"size": 10385274
+},
+"moskov-blood-spear": {
+"tag": "skins",
+"name": "moskov-blood-spear.zip",
+"size": 8704940
+},
+"moskov-decapitator": {
+"tag": "skins",
+"name": "moskov-decapitator.zip",
+"size": 5727163
+},
+"moskov-harbinger-of-chaos": {
+"tag": "skins",
+"name": "moskov-harbinger-of-chaos.zip",
+"size": 7094226
+},
+"miya-nightowl-sentinel-painted-02": {
+"tag": "skins",
+"name": "miya-nightowl-sentinel-painted-02.zip",
+"size": 9500481
+},
+"moskov-infernal-wrymlord": {
+"tag": "skins",
+"name": "moskov-infernal-wrymlord.zip",
+"size": 16743097
+},
+"moskov-snake-eye-commander": {
+"tag": "skins",
+"name": "moskov-snake-eye-commander.zip",
+"size": 6167753
+},
+"moskov-doom-incarnate": {
+"tag": "skins",
+"name": "moskov-doom-incarnate.zip",
+"size": 9917052
+},
+"moskov-twilight-dragon": {
+"tag": "skins",
+"name": "moskov-twilight-dragon.zip",
+"size": 11774810
+},
+"moskov-yasha": {
+"tag": "skins",
+"name": "moskov-yasha.zip",
+"size": 3187034
+},
+"moskov-violet-spear": {
+"tag": "skins",
+"name": "moskov-violet-spear.zip",
+"size": 8296269
+},
+"moskov-javelin-champion": {
+"tag": "skins",
+"name": "moskov-javelin-champion.zip",
+"size": 5608612
+},
+"moskov-spear-of-dystopia-painted-01": {
+"tag": "skins",
+"name": "moskov-spear-of-dystopia-painted-01.zip",
+"size": 11225881
+},
+"nana-aqua-pura": {
+"tag": "skins",
+"name": "nana-aqua-pura.zip",
+"size": 10980818
+},
+"nana-mecha-baby": {
+"tag": "skins",
+"name": "nana-mecha-baby.zip",
+"size": 6995210
+},
+"nana-mistbender-nana": {
+"tag": "skins",
+"name": "nana-mistbender-nana.zip",
+"size": 16366008
+},
+"nana-wind-fairy": {
+"tag": "skins",
+"name": "nana-wind-fairy.zip",
+"size": 2996070
+},
+"nana-slumber-party": {
+"tag": "skins",
+"name": "nana-slumber-party.zip",
+"size": 2885089
+},
+"natalia-crimson-raven-painted-01": {
+"tag": "skins",
+"name": "natalia-crimson-raven-painted-01.zip",
+"size": 4553966
+},
+"natalia-cyber-spectre": {
+"tag": "skins",
+"name": "natalia-cyber-spectre.zip",
+"size": 3608635
+},
+"natalia-deadly-mamba": {
+"tag": "skins",
+"name": "natalia-deadly-mamba.zip",
+"size": 2175066
+},
+"nana-cyclone-clash": {
+"tag": "skins",
+"name": "nana-cyclone-clash.zip",
+"size": 12180649
+},
+"natalia-midnight-raven": {
+"tag": "skins",
+"name": "natalia-midnight-raven.zip",
+"size": 3604154
+},
+"natalia-grim-strangler": {
+"tag": "skins",
+"name": "natalia-grim-strangler.zip",
+"size": 3995946
+},
+"natalia-phantom-dancer": {
+"tag": "skins",
+"name": "natalia-phantom-dancer.zip",
+"size": 4353326
+},
+"natalia-soul-huntress": {
+"tag": "skins",
+"name": "natalia-soul-huntress.zip",
+"size": 8586030
+},
+"natalia-rogue-mamba-painted-01": {
+"tag": "skins",
+"name": "natalia-rogue-mamba-painted-01.zip",
+"size": 6763340
+},
+"natalia-warrioress-paragon": {
+"tag": "skins",
+"name": "natalia-warrioress-paragon.zip",
+"size": 7845777
+},
+"natan-sanguine-steward": {
+"tag": "skins",
+"name": "natan-sanguine-steward.zip",
+"size": 5909643
+},
+"natan-archon-of-knowledge": {
+"tag": "skins",
+"name": "natan-archon-of-knowledge.zip",
+"size": 25063790
+},
+"natan-temporal-vortex": {
+"tag": "skins",
+"name": "natan-temporal-vortex.zip",
+"size": 11893436
+},
+"natan-captain-chrono": {
+"tag": "skins",
+"name": "natan-captain-chrono.zip",
+"size": 7632095
+},
+"natan-chaos-hunter": {
+"tag": "skins",
+"name": "natan-chaos-hunter.zip",
+"size": 10104592
+},
+"nolan-fashion-tycoon-painted-01": {
+"tag": "skins",
+"name": "nolan-fashion-tycoon-painted-01.zip",
+"size": 13541782
+},
+"nolan-fashion-magnate-painted-02": {
+"tag": "skins",
+"name": "nolan-fashion-magnate-painted-02.zip",
+"size": 9609489
+},
+"nolan-fashion-mogul": {
+"tag": "skins",
+"name": "nolan-fashion-mogul.zip",
+"size": 10214125
+},
+"nolan-the-navigator": {
+"tag": "skins",
+"name": "nolan-the-navigator.zip",
+"size": 21230225
+},
+"nolan-voidwalker": {
+"tag": "skins",
+"name": "nolan-voidwalker.zip",
+"size": 9316163
+},
+"nolan-spectral-strider": {
+"tag": "skins",
+"name": "nolan-spectral-strider.zip",
+"size": 10894757
+},
+"novaria-dragonsworn": {
+"tag": "skins",
+"name": "novaria-dragonsworn.zip",
+"size": 20207983
+},
+"natan-tidal-lord": {
+"tag": "skins",
+"name": "natan-tidal-lord.zip",
+"size": 11825126
+},
+"odette-auspicious-charm": {
+"tag": "skins",
+"name": "odette-auspicious-charm.zip",
+"size": 4477399
+},
+"odette-butterfly-faerie": {
+"tag": "skins",
+"name": "odette-butterfly-faerie.zip",
+"size": 6218344
+},
+"novaria-sugar-glaze": {
+"tag": "skins",
+"name": "novaria-sugar-glaze.zip",
+"size": 11136672
+},
+"odette-christmas-carnival": {
+"tag": "skins",
+"name": "odette-christmas-carnival.zip",
+"size": 4267146
+},
+"novaria-aqua-glaze": {
+"tag": "skins",
+"name": "novaria-aqua-glaze.zip",
+"size": 11624261
+},
+"novaria-honey-glaze-painted-01": {
+"tag": "skins",
+"name": "novaria-honey-glaze-painted-01.zip",
+"size": 12872667
+},
+"odette-sage-of-the-currents": {
+"tag": "skins",
+"name": "odette-sage-of-the-currents.zip",
+"size": 13423375
+}
+}
+}
