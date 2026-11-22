@@ -1,0 +1,163 @@
+{
+"schema_version": 1,
+"base": "https://github.com/gabcodingapp-dev/xin-mirror/releases/download",
+"tags": {
+"skins": "Hero skin scripts",
+"flyingvehicle": "Flying vehicles",
+"radiantkits": "Radiant kits",
+"elimination": "Elimination effects",
+"trail": "Trails",
+"respawn": "Respawn effects",
+"borders": "Avatar borders",
+"emotes": "Emotes",
+"recalls": "Recall effects",
+"intros": "Loading intros"
+},
+"items": {
+"flyingvehicle-astral-jellyfish": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-astral-jellyfish.zip",
+"size": 1636647
+},
+"flyingvehicle-default-flying-vehicle": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-default-flying-vehicle.zip",
+"size": 174388
+},
+"flyingvehicle-flying-moon": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-flying-moon.zip",
+"size": 1209664
+},
+"flyingvehicle-sand-cloud": {
+"tag": "flyingvehicle",
+"name": "flyingvehicle-sand-cloud.zip",
+"size": 924830
+},
+"aamon-cyber-assassin": {
+"tag": "skins",
+"name": "aamon-cyber-assassin.zip",
+"size": 9128789
+},
+"aamon-night-s-edge": {
+"tag": "skins",
+"name": "aamon-night-s-edge.zip",
+"size": 7085131
+},
+"aamon-noble-crest": {
+"tag": "skins",
+"name": "aamon-noble-crest.zip",
+"size": 9143351
+},
+"aamon-vessel-of-deceit": {
+"tag": "skins",
+"name": "aamon-vessel-of-deceit.zip",
+"size": 20249200
+},
+"akai-akazonae-samurai": {
+"tag": "skins",
+"name": "akai-akazonae-samurai.zip",
+"size": 4575772
+},
+"akai-imperial-assassin": {
+"tag": "skins",
+"name": "akai-imperial-assassin.zip",
+"size": 7710220
+},
+"akai-kung-fu-panda": {
+"tag": "skins",
+"name": "akai-kung-fu-panda.zip",
+"size": 8891806
+},
+"akai-marvelous-maestro": {
+"tag": "skins",
+"name": "akai-marvelous-maestro.zip",
+"size": 10452405
+},
+"akai-monk": {
+"tag": "skins",
+"name": "akai-monk.zip",
+"size": 4022603
+},
+"akai-pumpkin-brawler": {
+"tag": "skins",
+"name": "akai-pumpkin-brawler.zip",
+"size": 12592571
+},
+"akai-stream-recluse": {
+"tag": "skins",
+"name": "akai-stream-recluse.zip",
+"size": 2705997
+},
+"akai-street-enforcer": {
+"tag": "skins",
+"name": "akai-street-enforcer.zip",
+"size": 3945654
+},
+"aldous-blazing-force": {
+"tag": "skins",
+"name": "aldous-blazing-force.zip",
+"size": 11060573
+},
+"aldous-death": {
+"tag": "skins",
+"name": "aldous-death.zip",
+"size": 3166916
+},
+"aldous-fathom-terror": {
+"tag": "skins",
+"name": "aldous-fathom-terror.zip",
+"size": 9538891
+},
+"aldous-king-of-supremacy": {
+"tag": "skins",
+"name": "aldous-king-of-supremacy.zip",
+"size": 6449070
+},
+"aldous-realm-watcher": {
+"tag": "skins",
+"name": "aldous-realm-watcher.zip",
+"size": 8711487
+},
+"aldous-red-mantle": {
+"tag": "skins",
+"name": "aldous-red-mantle.zip",
+"size": 4492391
+},
+"aldous-starscream": {
+"tag": "skins",
+"name": "aldous-starscream.zip",
+"size": 10983986
+},
+"aldous-the-insentient": {
+"tag": "skins",
+"name": "aldous-the-insentient.zip",
+"size": 2741019
+},
+"alice-darknet-temptress": {
+"tag": "skins",
+"name": "alice-darknet-temptress.zip",
+"size": 10822711
+},
+"alice-divine-owl": {
+"tag": "skins",
+"name": "alice-divine-owl.zip",
+"size": 4047022
+},
+"alice-spirit-woman": {
+"tag": "skins",
+"name": "alice-spirit-woman.zip",
+"size": 2144173
+},
+"alice-steam-glider": {
+"tag": "skins",
+"name": "alice-steam-glider.zip",
+"size": 3478307
+},
+"alice-wizardry-teacher": {
+"tag": "skins",
+"name": "alice-wizardry-teacher.zip",
+"size": 25247534
+}
+}
+}
