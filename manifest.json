@@ -1,11 +1,11 @@
 {
  "schema_version": 1,
- "catalog_version": "2026.11.22.1",
+ "catalog_version": "2026.11.22.2",
  "updated_at": "2026-11-22T00:00:00Z",
  "name": "XIN HUB Assets",
  "counts": {
   "skins": 1550,
-  "injectable": 743,
+  "injectable": 874,
   "heroes": 133,
   "tags": 88,
   "effects": 2438,
