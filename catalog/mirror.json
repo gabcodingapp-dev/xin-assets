@@ -3,6 +3,8 @@
 "base": "https://github.com/gabcodingapp-dev/xin-mirror/releases/download",
 "tags": {
 "skins": "Hero skin scripts",
+"skinsextra": "Skin scripts not yet in the catalog",
+"source": "Upstream source repo bundles",
 "flyingvehicle": "Flying vehicles",
 "radiantkits": "Radiant kits",
 "elimination": "Elimination effects",
@@ -1538,6 +1540,396 @@
 "tag": "skins",
 "name": "hanabi-v-e-n-o-m-nephila.zip",
 "size": 6122046
+},
+"hanabi-rakshesha": {
+"tag": "skins",
+"name": "hanabi-rakshesha.zip",
+"size": 9599157
+},
+"hanzo-insidious-tutor": {
+"tag": "skins",
+"name": "hanzo-insidious-tutor.zip",
+"size": 11673855
+},
+"hanabi-vessel-of-rage": {
+"tag": "skins",
+"name": "hanabi-vessel-of-rage.zip",
+"size": 23402145
+},
+"hanzo-undead-king": {
+"tag": "skins",
+"name": "hanzo-undead-king.zip",
+"size": 10090096
+},
+"harith-christmas-carnival": {
+"tag": "skins",
+"name": "harith-christmas-carnival.zip",
+"size": 9650283
+},
+"hanzo-soulfire-netherlord": {
+"tag": "skins",
+"name": "hanzo-soulfire-netherlord.zip",
+"size": 18736986
+},
+"harith-fashion-expert": {
+"tag": "skins",
+"name": "harith-fashion-expert.zip",
+"size": 3414972
+},
+"harith-lightborn-inspirer": {
+"tag": "skins",
+"name": "harith-lightborn-inspirer.zip",
+"size": 6492937
+},
+"hanzo-the-pale-phantom": {
+"tag": "skins",
+"name": "hanzo-the-pale-phantom.zip",
+"size": 5549084
+},
+"harith-psychic": {
+"tag": "skins",
+"name": "harith-psychic.zip",
+"size": 9317919
+},
+"harley-dream-caster": {
+"tag": "skins",
+"name": "harley-dream-caster.zip",
+"size": 7910359
+},
+"harley-great-inventor": {
+"tag": "skins",
+"name": "harley-great-inventor.zip",
+"size": 6892227
+},
+"harley-referee": {
+"tag": "skins",
+"name": "harley-referee.zip",
+"size": 3419385
+},
+"hayabusa-biological-weapon": {
+"tag": "skins",
+"name": "hayabusa-biological-weapon.zip",
+"size": 6536956
+},
+"harley-v-e-n-o-m-octopus": {
+"tag": "skins",
+"name": "harley-v-e-n-o-m-octopus.zip",
+"size": 4643502
+},
+"hayabusa-future-enforcer": {
+"tag": "skins",
+"name": "hayabusa-future-enforcer.zip",
+"size": 15053628
+},
+"hayabusa-experiment-21": {
+"tag": "skins",
+"name": "hayabusa-experiment-21.zip",
+"size": 9326799
+},
+"hayabusa-kakashi-hatake": {
+"tag": "skins",
+"name": "hayabusa-kakashi-hatake.zip",
+"size": 22965920
+},
+"hayabusa-techie-ninja": {
+"tag": "skins",
+"name": "hayabusa-techie-ninja.zip",
+"size": 9496541
+},
+"hayabusa-shadow-of-obscurity": {
+"tag": "skins",
+"name": "hayabusa-shadow-of-obscurity.zip",
+"size": 6144777
+},
+"helcurt-dream-prowler": {
+"tag": "skins",
+"name": "helcurt-dream-prowler.zip",
+"size": 5530002
+},
+"hayabusa-sushi-master": {
+"tag": "skins",
+"name": "hayabusa-sushi-master.zip",
+"size": 11691900
+},
+"helcurt-evolved-predator": {
+"tag": "skins",
+"name": "helcurt-evolved-predator.zip",
+"size": 5745000
+},
+"hayabusa-shura": {
+"tag": "skins",
+"name": "hayabusa-shura.zip",
+"size": 10474886
+},
+"helcurt-ice-scythe": {
+"tag": "skins",
+"name": "helcurt-ice-scythe.zip",
+"size": 6777495
+},
+"hilda-bass-craze": {
+"tag": "skins",
+"name": "hilda-bass-craze.zip",
+"size": 5184958
+},
+"hilda-flower-of-the-wastes": {
+"tag": "skins",
+"name": "hilda-flower-of-the-wastes.zip",
+"size": 2410360
+},
+"hilda-sacred-guard": {
+"tag": "skins",
+"name": "hilda-sacred-guard.zip",
+"size": 3918962
+},
+"hylos-abyssal-shaman": {
+"tag": "skins",
+"name": "hylos-abyssal-shaman.zip",
+"size": 3072980
+},
+"hilda-aries": {
+"tag": "skins",
+"name": "hilda-aries.zip",
+"size": 8287984
+},
+"helcurt-scorpio": {
+"tag": "skins",
+"name": "helcurt-scorpio.zip",
+"size": 6655741
+},
+"hylos-iron-steed": {
+"tag": "skins",
+"name": "hylos-iron-steed.zip",
+"size": 5416590
+},
+"hylos-bloodhoof-marauder": {
+"tag": "skins",
+"name": "hylos-bloodhoof-marauder.zip",
+"size": 5528657
+},
+"hylos-phantom-seer": {
+"tag": "skins",
+"name": "hylos-phantom-seer.zip",
+"size": 3630321
+},
+"irithel-astral-wanderer": {
+"tag": "skins",
+"name": "irithel-astral-wanderer.zip",
+"size": 5340064
+},
+"hylos-jungle-watcher": {
+"tag": "skins",
+"name": "hylos-jungle-watcher.zip",
+"size": 5625056
+},
+"irithel-hellfire": {
+"tag": "skins",
+"name": "irithel-hellfire.zip",
+"size": 5608425
+},
+"irithel-nightarrow": {
+"tag": "skins",
+"name": "irithel-nightarrow.zip",
+"size": 5206809
+},
+"irithel-checkered-knight": {
+"tag": "skins",
+"name": "irithel-checkered-knight.zip",
+"size": 10693940
+},
+"harith-stardust": {
+"tag": "skins",
+"name": "harith-stardust.zip",
+"size": 3455038
+},
+"harith-evos-legends": {
+"tag": "skins",
+"name": "harith-evos-legends.zip",
+"size": 6463127
+},
+"harley-royal-magister": {
+"tag": "skins",
+"name": "harley-royal-magister.zip",
+"size": 3598285
+},
+"irithel-sagittarius": {
+"tag": "skins",
+"name": "irithel-sagittarius.zip",
+"size": 10478081
+},
+"harley-star-magician": {
+"tag": "skins",
+"name": "harley-star-magician.zip",
+"size": 5552957
+},
+"irithel-monster-sp-rider": {
+"tag": "skins",
+"name": "irithel-monster-sp-rider.zip",
+"size": 16730364
+},
+"ixia-shifting-sand": {
+"tag": "skins",
+"name": "ixia-shifting-sand.zip",
+"size": 12259283
+},
+"ixia-dynamic-streak": {
+"tag": "skins",
+"name": "ixia-dynamic-streak.zip",
+"size": 12297259
+},
+"jawhead-candy-bear": {
+"tag": "skins",
+"name": "jawhead-candy-bear.zip",
+"size": 5482240
+},
+"jawhead-cyber-ranger": {
+"tag": "skins",
+"name": "jawhead-cyber-ranger.zip",
+"size": 6435828
+},
+"jawhead-foo-quarterback": {
+"tag": "skins",
+"name": "jawhead-foo-quarterback.zip",
+"size": 4328347
+},
+"jawhead-proto-guardian": {
+"tag": "skins",
+"name": "jawhead-proto-guardian.zip",
+"size": 14728922
+},
+"jawhead-the-nutcracker": {
+"tag": "skins",
+"name": "jawhead-the-nutcracker.zip",
+"size": 4434338
+},
+"ixia-invoker-s-command": {
+"tag": "skins",
+"name": "ixia-invoker-s-command.zip",
+"size": 23596299
+},
+"johnson-death-ride": {
+"tag": "skins",
+"name": "johnson-death-ride.zip",
+"size": 6189985
+},
+"johnson-jeepney-racer": {
+"tag": "skins",
+"name": "johnson-jeepney-racer.zip",
+"size": 5789799
+},
+"jawhead-samurai-mech": {
+"tag": "skins",
+"name": "jawhead-samurai-mech.zip",
+"size": 8705680
+},
+"johnson-optimus-prime": {
+"tag": "skins",
+"name": "johnson-optimus-prime.zip",
+"size": 13919991
+},
+"jawhead-space-explorer": {
+"tag": "skins",
+"name": "jawhead-space-explorer.zip",
+"size": 4492391
+},
+"johnson-s-a-b-e-r-automata": {
+"tag": "skins",
+"name": "johnson-s-a-b-e-r-automata.zip",
+"size": 10752560
+},
+"johnson-sovereign-of-realms": {
+"tag": "skins",
+"name": "johnson-sovereign-of-realms.zip",
+"size": 18836956
+},
+"johnson-wreck-king": {
+"tag": "skins",
+"name": "johnson-wreck-king.zip",
+"size": 13302149
+},
+"joy-feline-ranger": {
+"tag": "skins",
+"name": "joy-feline-ranger.zip",
+"size": 3346379
+},
+"joy-onic-ph": {
+"tag": "skins",
+"name": "joy-onic-ph.zip",
+"size": 11979337
+},
+"julian-itachi-uchiha": {
+"tag": "skins",
+"name": "julian-itachi-uchiha.zip",
+"size": 30240208
+},
+"julian-megumi-fushiguro": {
+"tag": "skins",
+"name": "julian-megumi-fushiguro.zip",
+"size": 17448740
+},
+"julian-silent-edge": {
+"tag": "skins",
+"name": "julian-silent-edge.zip",
+"size": 5454056
+},
+"joy-exostar-scout": {
+"tag": "skins",
+"name": "joy-exostar-scout.zip",
+"size": 10452003
+},
+"kadita-atlantean-princess": {
+"tag": "skins",
+"name": "kadita-atlantean-princess.zip",
+"size": 2321111
+},
+"kadita-hydromancer": {
+"tag": "skins",
+"name": "kadita-hydromancer.zip",
+"size": 5462743
+},
+"julian-kurapika": {
+"tag": "skins",
+"name": "julian-kurapika.zip",
+"size": 18913291
+},
+"kadita-white-robin": {
+"tag": "skins",
+"name": "kadita-white-robin.zip",
+"size": 4466151
+},
+"kagura-cherry-witch": {
+"tag": "skins",
+"name": "kagura-cherry-witch.zip",
+"size": 5128291
+},
+"kagura-jade-blossom": {
+"tag": "skins",
+"name": "kagura-jade-blossom.zip",
+"size": 9235278
+},
+"kagura-exorcist-kagura": {
+"tag": "skins",
+"name": "kagura-exorcist-kagura.zip",
+"size": 25032694
+},
+"kadita-maiden-of-the-tide": {
+"tag": "skins",
+"name": "kadita-maiden-of-the-tide.zip",
+"size": 14089652
+},
+"kagura-rainy-walk": {
+"tag": "skins",
+"name": "kagura-rainy-walk.zip",
+"size": 9781681
+},
+"kagura-summer-festival": {
+"tag": "skins",
+"name": "kagura-summer-festival.zip",
+"size": 5007529
+},
+"kagura-lady-parasol": {
+"tag": "skins",
+"name": "kagura-lady-parasol.zip",
+"size": 11788095
 }
 }
 }
