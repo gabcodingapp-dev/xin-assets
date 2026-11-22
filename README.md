@@ -5,15 +5,16 @@ Catalog, art and metadata for the XIN HUB app. The app pulls `manifest.json`, co
 
 ```
 manifest.json                 version, counts, endpoint map
-catalog/skins.json            1550 skins, 743 with a resolved script URL
+catalog/skins.json            1550 skins, 874 injectable
 catalog/heroes.json           133 heroes with roles and head art
 catalog/effects.json          effects + loading intros + backgrounds
 catalog/tags.json             88 release tags
 catalog/menus.json            quick-menu entries
 catalog/lobby_sounds.json     lobby tracks with preview URLs
 catalog/latest.json           newest skin drops
-images/                       app art, role icons, placeholders
-restore/                      restoration protection archives
+catalog/upgrade.json          151 upgrades, 9 free Second Forms
+images/                       app art, role icons, placeholders, guide screenshots
+restore/                      protection archives and stock-intro restore kit
 ```
 
 ## Endpoints

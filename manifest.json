@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "catalog_version": "2026.11.22.3",
- "updated_at": "2026-11-22T00:00:00Z",
+ "catalog_version": "2026.11.22.4",
+ "updated_at": "2026-11-22T12:00:00Z",
  "name": "XIN HUB Assets",
  "counts": {
   "skins": 1550,
@@ -11,7 +11,10 @@
   "effects": 2438,
   "effect_categories": 8,
   "intros": 487,
-  "lobby_sounds": 9
+  "lobby_sounds": 9,
+  "upgrades": 151,
+  "second_forms": 9,
+  "guides": 5
  },
  "bases": {
   "images": "https://raw.githubusercontent.com/Sparkies01/DownloadImages/main",
@@ -26,6 +29,7 @@
   "menus": "catalog/menus.json",
   "lobby": "catalog/lobby_sounds.json",
   "intros": "catalog/intros.json",
-  "latest": "catalog/latest.json"
+  "latest": "catalog/latest.json",
+  "upgrade": "catalog/upgrade.json"
  }
 }
