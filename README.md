@@ -14,6 +14,7 @@ catalog/lobby_sounds.json     lobby tracks with preview URLs
 catalog/latest.json           newest skin drops
 catalog/upgrade.json          151 upgrades, 9 free Second Forms
 images/                       app art, role icons, placeholders, guide screenshots
+scripts/                      mirrored intro script archives
 restore/                      protection archives and stock-intro restore kit
 ```
 
